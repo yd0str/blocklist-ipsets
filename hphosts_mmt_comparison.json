@@ -14,7 +14,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 231,
+		"ips": 234,
 		"common": 25
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16999,
+		"ips": 16992,
 		"common": 6
 	},
 	{
@@ -260,13 +260,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 671109385,
-		"common": 26
+		"ips": 671109388,
+		"common": 27
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 106899,
+		"ips": 106898,
 		"common": 1
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9606723,
+		"ips": 9606714,
 		"common": 108
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 9314,
+		"ips": 9315,
 		"common": 1
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2431,
+		"ips": 2428,
 		"common": 1
 	},
 	{
@@ -578,7 +578,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 519,
+		"ips": 520,
 		"common": 2
 	},
 	{
@@ -699,6 +699,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 162,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 140,
 		"common": 1
 	}
 ]
