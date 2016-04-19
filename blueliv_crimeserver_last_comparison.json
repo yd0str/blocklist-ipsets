@@ -2,7 +2,7 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 10148,
+		"ips": 9925,
 		"common": 1
 	},
 	{
@@ -38,13 +38,13 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 233,
+		"ips": 231,
 		"common": 7
 	},
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 124,
+		"ips": 123,
 		"common": 1
 	},
 	{
@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16927,
+		"ips": 16875,
 		"common": 13
 	},
 	{
@@ -110,25 +110,25 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4605,
+		"ips": 4620,
 		"common": 23
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 7540,
-		"common": 162
+		"ips": 7558,
+		"common": 163
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 194596,
+		"ips": 194704,
 		"common": 5
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 228776,
+		"ips": 228688,
 		"common": 6
 	},
 	{
@@ -176,19 +176,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 86016,
+		"ips": 87296,
 		"common": 5
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2283264,
+		"ips": 2283008,
 		"common": 20
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 480768,
+		"ips": 482048,
 		"common": 8
 	},
 	{
@@ -206,32 +206,32 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 375202,
+		"ips": 375332,
 		"common": 6
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 671109386,
-		"common": 10
+		"ips": 671109387,
+		"common": 11
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 106337,
+		"ips": 107609,
 		"common": 6
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2362739,
+		"ips": 2362649,
 		"common": 70
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9606677,
-		"common": 180
+		"ips": 9606639,
+		"common": 181
 	},
 	{
 		"name": "firehol_webserver",
@@ -482,13 +482,13 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36149,
+		"ips": 35809,
 		"common": 1
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 22891,
+		"ips": 22889,
 		"common": 1
 	},
 	{
@@ -518,19 +518,19 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 519,
+		"ips": 520,
 		"common": 2
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 744,
+		"ips": 745,
 		"common": 1
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
 		"category": "malware",
-		"ips": 652,
+		"ips": 653,
 		"common": 1
 	},
 	{
@@ -578,7 +578,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 37522,
+		"ips": 37593,
 		"common": 7
 	},
 	{
@@ -609,6 +609,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 162,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 142,
 		"common": 1
 	}
 ]
