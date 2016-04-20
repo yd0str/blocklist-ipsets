@@ -18,6 +18,30 @@
 		"common": 4
 	},
 	{
+		"name": "atlas_scans",
+		"category": "attacks",
+		"ips": 10,
+		"common": 1
+	},
+	{
+		"name": "atlas_scans_2d",
+		"category": "attacks",
+		"ips": 24,
+		"common": 1
+	},
+	{
+		"name": "atlas_scans_30d",
+		"category": "attacks",
+		"ips": 96,
+		"common": 1
+	},
+	{
+		"name": "atlas_scans_7d",
+		"category": "attacks",
+		"ips": 48,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 251,
@@ -501,31 +525,31 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 3
+		"common": 9
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 87296,
-		"common": 278
+		"ips": 90368,
+		"common": 287
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2281984,
-		"common": 3638
+		"ips": 2283520,
+		"common": 3645
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 480000,
-		"common": 1092
+		"ips": 482048,
+		"common": 1101
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 852,
-		"common": 6
+		"ips": 850,
+		"common": 7
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -591,19 +615,19 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 671053570,
-		"common": 8481
+		"common": 8487
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 107765,
-		"common": 3837
+		"ips": 110821,
+		"common": 3844
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2361793,
-		"common": 6218
+		"ips": 2361901,
+		"common": 6203
 	},
 	{
 		"name": "firehol_level4",
@@ -1346,7 +1370,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 518,
+		"ips": 524,
 		"common": 10
 	},
 	{
@@ -1365,49 +1389,49 @@
 		"name": "ri_connect_proxies",
 		"category": "anonymizers",
 		"ips": 150,
-		"common": 134
+		"common": 128
 	},
 	{
 		"name": "ri_connect_proxies_1d",
 		"category": "anonymizers",
-		"ips": 294,
-		"common": 256
+		"ips": 287,
+		"common": 247
 	},
 	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 1799,
-		"common": 1461
+		"ips": 1812,
+		"common": 1471
 	},
 	{
 		"name": "ri_connect_proxies_7d",
 		"category": "anonymizers",
-		"ips": 898,
-		"common": 746
+		"ips": 903,
+		"common": 747
 	},
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 141,
-		"common": 113
+		"ips": 144,
+		"common": 110
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 366,
-		"common": 290
+		"ips": 448,
+		"common": 353
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5924,
-		"common": 4450
+		"ips": 5967,
+		"common": 4479
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1623,
-		"common": 1271
+		"ips": 1679,
+		"common": 1312
 	},
 	{
 		"name": "satellite",
@@ -1430,8 +1454,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 37285,
-		"common": 1415
+		"ips": 37615,
+		"common": 1419
 	},
 	{
 		"name": "socks_proxy",

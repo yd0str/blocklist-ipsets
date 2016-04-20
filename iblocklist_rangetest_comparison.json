@@ -54,16 +54,28 @@
 		"common": 1
 	},
 	{
+		"name": "atlas_scans",
+		"category": "attacks",
+		"ips": 10,
+		"common": 1
+	},
+	{
+		"name": "atlas_scans_2d",
+		"category": "attacks",
+		"ips": 24,
+		"common": 1
+	},
+	{
 		"name": "atlas_scans_30d",
 		"category": "attacks",
-		"ips": 92,
-		"common": 2
+		"ips": 96,
+		"common": 3
 	},
 	{
 		"name": "atlas_scans_7d",
 		"category": "attacks",
-		"ips": 44,
-		"common": 1
+		"ips": 48,
+		"common": 2
 	},
 	{
 		"name": "bambenek_c2",
@@ -542,26 +554,26 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 87296,
+		"ips": 90368,
 		"common": 1280
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2281984,
+		"ips": 2283520,
 		"common": 13824
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 480000,
+		"ips": 482048,
 		"common": 2816
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 852,
-		"common": 24
+		"ips": 850,
+		"common": 25
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -632,13 +644,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 107765,
+		"ips": 110821,
 		"common": 1377
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2361793,
+		"ips": 2361901,
 		"common": 14222
 	},
 	{
@@ -1244,19 +1256,19 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 518,
+		"ips": 524,
 		"common": 8
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5924,
+		"ips": 5967,
 		"common": 13
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1623,
+		"ips": 1679,
 		"common": 3
 	},
 	{
@@ -1274,8 +1286,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 37285,
-		"common": 36
+		"ips": 37615,
+		"common": 38
 	},
 	{
 		"name": "socks_proxy_1d",
