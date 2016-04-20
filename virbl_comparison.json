@@ -2,25 +2,25 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2261248,
+		"ips": 2258176,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 96952,
-		"common": 22
+		"ips": 92954,
+		"common": 24
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2336389,
+		"ips": 2333819,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 45763712,
+		"ips": 45763537,
 		"common": 2
 	},
 	{
@@ -28,6 +28,12 @@
 		"category": "unroutable",
 		"ips": 666661539,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227983904,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_comcast",
@@ -57,7 +63,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1580976,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -75,12 +81,12 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 795728,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 5824881,
-		"common": 1
+		"common": 2
 	}
 ]
