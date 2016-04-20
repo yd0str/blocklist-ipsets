@@ -56,25 +56,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19393,
+		"ips": 19451,
 		"common": 87
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9318,
+		"ips": 9319,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2366,
+		"ips": 2388,
 		"common": 77
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14633,
+		"ips": 14659,
 		"common": 25
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16456,
+		"ips": 16430,
 		"common": 61
 	},
 	{
@@ -314,25 +314,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 671053299,
+		"ips": 671053308,
 		"common": 14
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 98075,
+		"ips": 98132,
 		"common": 100
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2335671,
+		"ips": 2335655,
 		"common": 90
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573077,
+		"ips": 9573055,
 		"common": 183
 	},
 	{
@@ -524,32 +524,38 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 9907,
+		"ips": 9909,
 		"common": 8
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 22873,
+		"ips": 22881,
 		"common": 13
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 3704,
+		"ips": 3702,
 		"common": 3
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 5252,
+		"ips": 5258,
 		"common": 4
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 116128,
+		"ips": 116139,
 		"common": 18
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 122,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
