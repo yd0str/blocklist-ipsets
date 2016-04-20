@@ -1,5 +1,5 @@
 
-The following list was automatically generated on Tue Apr 19 12:27:32 UTC 2016.
+The following list was automatically generated on Wed Apr 20 16:55:17 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -80,7 +80,6 @@ name|info|type|entries|update|
 [id_country_cm](http://iplists.firehol.org/?ipset=id_country_cm)|Cameroon (CM) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|32 subnets, 306944 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_cn](http://iplists.firehol.org/?ipset=id_country_cn)|China (CN) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|4077 subnets, 336796416 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_co](http://iplists.firehol.org/?ipset=id_country_co)|Colombia (CO) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|289 subnets, 17274368 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
-[id_country_cr](http://iplists.firehol.org/?ipset=id_country_cr)|Costa Rica (CR) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|141 subnets, 2571264 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_cr](http://iplists.firehol.org/?ipset=id_country_cr)|Costa Rica (CR) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|138 subnets, 2568704 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_cu](http://iplists.firehol.org/?ipset=id_country_cu)|Cuba (CU) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|17 subnets, 257024 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_cu](http://iplists.firehol.org/?ipset=id_country_cu)|Cuba (CU) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|17 subnets, 257024 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
