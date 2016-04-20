@@ -1051,7 +1051,7 @@
 [ -f 'ransomware_locky_c2.ipset' ] && /bin/touch --date=@1461051301 'ransomware_locky_c2.ipset'
 [ -f 'ransomware_locky_ps.ipset' ] && /bin/touch --date=@1459036801 'ransomware_locky_ps.ipset'
 [ -f 'ransomware_rw.ipset' ] && /bin/touch --date=@1461129302 'ransomware_rw.ipset'
-[ -f 'ransomware_teslacrypt_ps.ipset' ] && /bin/touch --date=@1461129302 'ransomware_teslacrypt_ps.ipset'
+[ -f 'ransomware_teslacrypt_ps.ipset' ] && /bin/touch --date=@1461130801 'ransomware_teslacrypt_ps.ipset'
 [ -f 'ransomware_torrentlocker_c2.ipset' ] && /bin/touch --date=@1460764801 'ransomware_torrentlocker_c2.ipset'
 [ -f 'ransomware_torrentlocker_ps.ipset' ] && /bin/touch --date=@1461065701 'ransomware_torrentlocker_ps.ipset'
 [ -f 'ri_connect_proxies.ipset' ] && /bin/touch --date=@1461111031 'ri_connect_proxies.ipset'
