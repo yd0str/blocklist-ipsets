@@ -1111,7 +1111,7 @@
 [ -f 'virbl.ipset' ] && /bin/touch --date=@1461185821 'virbl.ipset'
 [ -f 'voipbl.netset' ] && /bin/touch --date=@1461176923 'voipbl.netset'
 [ -f 'vxvault.ipset' ] && /bin/touch --date=@1461162459 'vxvault.ipset'
-[ -f 'xroxy.ipset' ] && /bin/touch --date=@1461180781 'xroxy.ipset'
+[ -f 'xroxy.ipset' ] && /bin/touch --date=@1461187981 'xroxy.ipset'
 [ -f 'xroxy_1d.ipset' ] && /bin/touch --date=@1461184381 'xroxy_1d.ipset'
 [ -f 'xroxy_30d.ipset' ] && /bin/touch --date=@1461180781 'xroxy_30d.ipset'
 [ -f 'xroxy_7d.ipset' ] && /bin/touch --date=@1461184381 'xroxy_7d.ipset'
