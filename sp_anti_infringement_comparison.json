@@ -188,7 +188,7 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 868,
+		"ips": 870,
 		"common": 76
 	},
 	{
@@ -207,7 +207,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 1458,
-		"common": 96
+		"common": 97
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -326,7 +326,7 @@
 	{
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
-		"ips": 605061704,
+		"ips": 605050440,
 		"common": 768
 	},
 	{
@@ -510,22 +510,28 @@
 		"common": 459
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 768
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 85760,
-		"common": 11975
+		"ips": 87808,
+		"common": 12487
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2277632,
+		"ips": 2278400,
 		"common": 312929
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 477696,
-		"common": 71371
+		"ips": 479744,
+		"common": 71627
 	},
 	{
 		"name": "dshield_top_1000",
@@ -603,13 +609,13 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 671053545,
-		"common": 71087
+		"common": 71855
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 106531,
-		"common": 12773
+		"ips": 108582,
+		"common": 13284
 	},
 	{
 		"name": "firehol_level3",

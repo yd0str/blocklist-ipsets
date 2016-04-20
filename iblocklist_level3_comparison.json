@@ -272,8 +272,8 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 868,
-		"common": 50
+		"ips": 870,
+		"common": 49
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -291,7 +291,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 1458,
-		"common": 76
+		"common": 75
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -422,7 +422,7 @@
 	{
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
-		"ips": 605061704,
+		"ips": 605050440,
 		"common": 4238359
 	},
 	{
@@ -618,22 +618,28 @@
 		"common": 487
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 512
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 85760,
-		"common": 9248
+		"ips": 87808,
+		"common": 9760
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2277632,
-		"common": 158066
+		"ips": 2278400,
+		"common": 158322
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 477696,
-		"common": 46624
+		"ips": 479744,
+		"common": 47136
 	},
 	{
 		"name": "dshield_top_1000",
@@ -711,13 +717,13 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 671053545,
-		"common": 4922339
+		"common": 4922851
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 106531,
-		"common": 12074
+		"ips": 108582,
+		"common": 12586
 	},
 	{
 		"name": "firehol_level3",
@@ -1491,7 +1497,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 519,
-		"common": 39
+		"common": 38
 	},
 	{
 		"name": "ransomware_locky_c2",

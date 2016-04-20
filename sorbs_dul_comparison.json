@@ -176,8 +176,8 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 868,
-		"common": 76
+		"ips": 870,
+		"common": 78
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -326,7 +326,7 @@
 	{
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
-		"ips": 605061704,
+		"ips": 605050440,
 		"common": 39188
 	},
 	{
@@ -516,22 +516,28 @@
 		"common": 838
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1024
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 85760,
-		"common": 8187
+		"ips": 87808,
+		"common": 8955
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2277632,
-		"common": 236377
+		"ips": 2278400,
+		"common": 236633
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 477696,
-		"common": 53361
+		"ips": 479744,
+		"common": 53617
 	},
 	{
 		"name": "dshield_top_1000",
@@ -603,13 +609,13 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 671053545,
-		"common": 111396
+		"common": 112420
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 106531,
-		"common": 9254
+		"ips": 108582,
+		"common": 10021
 	},
 	{
 		"name": "firehol_level3",
