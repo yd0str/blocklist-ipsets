@@ -1,8 +1,50 @@
 [
 	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 2262016,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 2338327,
+		"common": 1
+	},
+	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572618,
-		"common": 2
+		"ips": 9572613,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 666661539,
+		"common": 1
+	},
+	{
+		"name": "iw_spamlist",
+		"category": "spam",
+		"ips": 2271,
+		"common": 1
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 1580976,
+		"common": 1
+	},
+	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 70679,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 799113,
+		"common": 1
 	}
 ]
