@@ -44,13 +44,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19512,
-		"common": 76
+		"ips": 19490,
+		"common": 77
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15959,
+		"ips": 15960,
 		"common": 1
 	},
 	{
@@ -92,8 +92,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 101155,
-		"common": 76
+		"ips": 101133,
+		"common": 77
 	},
 	{
 		"name": "firehol_level3",
@@ -104,7 +104,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9565477,
+		"ips": 9565478,
 		"common": 9
 	},
 	{
@@ -172,6 +172,12 @@
 		"category": "reputation",
 		"ips": 139039391,
 		"common": 6
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4346058,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_spyware",
@@ -279,6 +285,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 15801,
-		"common": 49
+		"common": 50
 	}
 ]
