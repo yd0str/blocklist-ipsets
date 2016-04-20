@@ -1713,7 +1713,7 @@ $(function () {
 	disqus_url = 'http://iplists.firehol.org/?ipset=' + ipset;
 	disqus_title = 'FireHOL IP Lists Analytics: ' + ipset;
 
-/*
+
 	setTimeout(function() {
 		(function() {
 			var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -1726,7 +1726,7 @@ $(function () {
 		    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
 		    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 		}());
-	}, 2500);
+	}, 4000);
 	// END disqus comments
 
 	// BEGIN google analytics
@@ -1738,9 +1738,9 @@ $(function () {
 	
 		ga('create', 'UA-64295674-2', 'auto');
 		ga('send', 'pageview');
-	}, 1500);
+	}, 2000);
 	// END google analytics
-*/
+
 	// fix hash anchor jumping
 	var shiftWindow = function() { scrollBy(0, -55) };
 	if (location.hash) shiftWindow();
