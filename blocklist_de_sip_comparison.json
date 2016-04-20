@@ -21,13 +21,19 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9410,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3317,
 		"common": 10
+	},
+	{
+		"name": "bi_ftp_2_30d",
+		"category": "attacks",
+		"ips": 1323,
+		"common": 1
 	},
 	{
 		"name": "bi_voip_2_30d",
@@ -38,14 +44,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18306,
-		"common": 78
+		"ips": 18342,
+		"common": 79
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 17065,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "ciarmy",
@@ -92,8 +98,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 107586,
-		"common": 78
+		"ips": 107622,
+		"common": 79
 	},
 	{
 		"name": "firehol_level3",
@@ -105,7 +111,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9606764,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "firehol_webserver",
@@ -118,6 +124,12 @@
 		"category": "attacks",
 		"ips": 1094860,
 		"common": 31
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2343,
+		"common": 1
 	},
 	{
 		"name": "haley_ssh",
@@ -183,7 +195,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "openbl_180d",
