@@ -212,19 +212,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 647,
+		"ips": 655,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17718,
+		"ips": 17712,
 		"common": 3
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5279,
+		"ips": 5274,
 		"common": 1
 	},
 	{
@@ -248,14 +248,14 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4370,
+		"ips": 4357,
 		"common": 191
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 7337,
-		"common": 650
+		"ips": 7375,
+		"common": 652
 	},
 	{
 		"name": "cleantalk",
@@ -350,7 +350,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7014,
+		"ips": 7001,
 		"common": 3
 	},
 	{
@@ -396,21 +396,27 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 76288,
+		"ips": 77568,
 		"common": 19
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2262016,
+		"ips": 2262528,
 		"common": 149
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 462336,
+		"ips": 463104,
 		"common": 40
 	},
 	{
@@ -452,7 +458,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 41868,
+		"ips": 41870,
 		"common": 5
 	},
 	{
@@ -464,19 +470,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105086,
+		"ips": 105138,
 		"common": 9
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 671053300,
-		"common": 42
+		"ips": 671053302,
+		"common": 44
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 98109,
+		"ips": 99391,
 		"common": 36
 	},
 	{
@@ -488,8 +494,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572613,
-		"common": 771
+		"ips": 9572645,
+		"common": 773
 	},
 	{
 		"name": "firehol_proxies",
@@ -956,7 +962,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 528,
+		"ips": 527,
 		"common": 20
 	},
 	{
@@ -1168,5 +1174,11 @@
 		"category": "malware",
 		"ips": 160,
 		"common": 3
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 140,
+		"common": 1
 	}
 ]
