@@ -72,6 +72,12 @@
 		"common": 1
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 7545,
+		"common": 2
+	},
+	{
 		"name": "dm_tor",
 		"category": "anonymizers",
 		"ips": 6958,
@@ -146,26 +152,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 671053569,
+		"ips": 671053564,
 		"common": 974
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 108336,
+		"ips": 108367,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2360148,
+		"ips": 2360147,
 		"common": 91
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9601503,
-		"common": 14
+		"ips": 9606764,
+		"common": 16
 	},
 	{
 		"name": "firehol_webserver",
@@ -195,7 +201,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "iblocklist_edu",
@@ -309,7 +315,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 520,
-		"common": 97
+		"common": 105
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -357,7 +363,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 5824547,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "sp_anti_infringement",

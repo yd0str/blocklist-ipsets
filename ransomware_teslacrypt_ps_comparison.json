@@ -60,6 +60,12 @@
 		"common": 1
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 7545,
+		"common": 2
+	},
+	{
 		"name": "dragon_http",
 		"category": "attacks",
 		"ips": 45056,
@@ -98,20 +104,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 671053569,
+		"ips": 671053564,
 		"common": 882
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2360148,
+		"ips": 2360147,
 		"common": 79
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9601503,
-		"common": 4
+		"ips": 9606764,
+		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
@@ -141,7 +147,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "iblocklist_edu",
@@ -225,7 +231,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 520,
-		"common": 5
+		"common": 13
 	},
 	{
 		"name": "ransomware_rw",
@@ -267,7 +273,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 5824547,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "sp_anti_infringement",
