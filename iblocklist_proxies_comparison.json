@@ -20,7 +20,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 17037,
+		"ips": 17101,
 		"common": 1
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2283520,
+		"ips": 2283264,
 		"common": 2
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9606740,
+		"ips": 9606806,
 		"common": 7
 	},
 	{
@@ -504,9 +504,27 @@
 		"common": 1
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 57,
+		"common": 1
+	},
+	{
+		"name": "xroxy_1d",
+		"category": "anonymizers",
+		"ips": 152,
+		"common": 1
+	},
+	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
 		"ips": 566,
+		"common": 1
+	},
+	{
+		"name": "xroxy_7d",
+		"category": "anonymizers",
+		"ips": 287,
 		"common": 1
 	}
 ]
