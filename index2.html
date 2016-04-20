@@ -689,7 +689,7 @@
 	<!-- Go to www.addthis.com/dashboard to customize your tools -->
 <!--	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55ce14b05924ca2f" async="async"></script> -->
 
-	<script type='text/javascript' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' data-shr-siteid='ea1177a09f94c4fa463b43002ebed053' data-cfasync='false' async='async'></script>
+<!--	<script type='text/javascript' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' data-shr-siteid='ea1177a09f94c4fa463b43002ebed053' data-cfasync='false' async='async'></script> -->
 
 <script type="text/javascript">//<![CDATA[ 
 
@@ -1713,6 +1713,7 @@ $(function () {
 	disqus_url = 'http://iplists.firehol.org/?ipset=' + ipset;
 	disqus_title = 'FireHOL IP Lists Analytics: ' + ipset;
 
+/*
 	setTimeout(function() {
 		(function() {
 			var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -1725,7 +1726,7 @@ $(function () {
 		    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
 		    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 		}());
-	}, 1500);
+	}, 2500);
 	// END disqus comments
 
 	// BEGIN google analytics
@@ -1737,9 +1738,9 @@ $(function () {
 	
 		ga('create', 'UA-64295674-2', 'auto');
 		ga('send', 'pageview');
-	}, 1000);
+	}, 1500);
 	// END google analytics
-
+*/
 	// fix hash anchor jumping
 	var shiftWindow = function() { scrollBy(0, -55) };
 	if (location.hash) shiftWindow();
