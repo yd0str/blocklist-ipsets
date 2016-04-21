@@ -146,20 +146,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19657,
-		"common": 430
+		"ips": 19642,
+		"common": 429
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9360,
+		"ips": 9352,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2500,
-		"common": 247
+		"ips": 2499,
+		"common": 248
 	},
 	{
 		"name": "blocklist_de_ftp",
@@ -170,20 +170,20 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 958,
+		"ips": 957,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14641,
-		"common": 127
+		"ips": 14635,
+		"common": 126
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 1565,
-		"common": 54
+		"common": 53
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -252,21 +252,27 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 33,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 661,
-		"common": 21
+		"ips": 666,
+		"common": 23
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17696,
+		"ips": 17699,
 		"common": 488
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5299,
+		"ips": 5300,
 		"common": 177
 	},
 	{
@@ -302,8 +308,8 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 7416,
-		"common": 11
+		"ips": 7235,
+		"common": 10
 	},
 	{
 		"name": "cleantalk",
@@ -536,8 +542,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 43055,
-		"common": 855
+		"ips": 43021,
+		"common": 856
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -554,14 +560,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670806664,
+		"ips": 670806662,
 		"common": 43
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 104069,
-		"common": 480
+		"ips": 104062,
+		"common": 479
 	},
 	{
 		"name": "firehol_level3",
@@ -572,7 +578,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572324,
+		"ips": 9572157,
 		"common": 1261
 	},
 	{
@@ -1046,7 +1052,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 790,
+		"ips": 767,
 		"common": 3
 	},
 	{
@@ -1184,26 +1190,26 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 300,
-		"common": 103
+		"ips": 299,
+		"common": 101
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1032,
-		"common": 295
+		"ips": 1040,
+		"common": 299
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6214,
+		"ips": 6209,
 		"common": 1393
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2837,
-		"common": 703
+		"ips": 2829,
+		"common": 700
 	},
 	{
 		"name": "proxz",
@@ -1610,7 +1616,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 139,
+		"ips": 137,
 		"common": 1
 	}
 ]
