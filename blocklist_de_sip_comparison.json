@@ -15,13 +15,13 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 47854,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1211,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 21207,
-		"common": 82
+		"ips": 21170,
+		"common": 79
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -120,6 +120,12 @@
 		"common": 1
 	},
 	{
+		"name": "dragon_http",
+		"category": "attacks",
+		"ips": 46080,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 109056,
@@ -129,13 +135,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 2276352,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 473600,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "et_botcc",
@@ -158,14 +164,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 132792,
-		"common": 82
+		"ips": 132755,
+		"common": 79
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2358866,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "firehol_level4",
@@ -177,13 +183,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45763607,
-		"common": 20
+		"common": 18
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1094867,
-		"common": 37
+		"common": 36
 	},
 	{
 		"name": "greensnow",
@@ -225,7 +231,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level3",
@@ -279,7 +285,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "openbl_all",
@@ -297,7 +303,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45557640,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "shunlist",
@@ -336,12 +342,6 @@
 		"common": 1
 	},
 	{
-		"name": "stopforumspam_toxic",
-		"category": "abuse",
-		"ips": 552279,
-		"common": 1
-	},
-	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 9759,
@@ -357,6 +357,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 15818,
-		"common": 50
+		"common": 48
 	}
 ]
