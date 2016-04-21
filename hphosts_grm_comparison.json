@@ -32,7 +32,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16172,
+		"ips": 16279,
 		"common": 3
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2356331,
+		"ips": 2356329,
 		"common": 19
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572100,
+		"ips": 9572209,
 		"common": 26
 	},
 	{
@@ -408,10 +408,16 @@
 		"common": 3
 	},
 	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 65290,
+		"common": 1
+	},
+	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 803073,
-		"common": 1
+		"ips": 804348,
+		"common": 2
 	},
 	{
 		"name": "stopforumspam",
