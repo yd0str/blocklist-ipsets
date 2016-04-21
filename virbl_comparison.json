@@ -32,7 +32,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 47139,
+		"ips": 47129,
 		"common": 1
 	},
 	{
@@ -44,8 +44,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 132324,
-		"common": 44
+		"ips": 132325,
+		"common": 43
 	},
 	{
 		"name": "firehol_level4",
@@ -84,10 +84,16 @@
 		"common": 2
 	},
 	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level2",
@@ -100,6 +106,12 @@
 		"category": "reputation",
 		"ips": 139039391,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_org_blizzard",
+		"category": "organizations",
+		"ips": 16795139,
+		"common": 1
 	},
 	{
 		"name": "iw_spamlist",
