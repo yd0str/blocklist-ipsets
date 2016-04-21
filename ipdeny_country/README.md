@@ -1,5 +1,5 @@
 
-The following list was automatically generated on Wed Apr 20 16:55:17 UTC 2016.
+The following list was automatically generated on Thu Apr 21 13:09:54 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -40,7 +40,6 @@ name|info|type|entries|update|
 [id_country_bb](http://iplists.firehol.org/?ipset=id_country_bb)|Barbados (BB) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|31 subnets, 172800 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_bd](http://iplists.firehol.org/?ipset=id_country_bd)|Bangladesh (BD) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|472 subnets, 1174272 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_be](http://iplists.firehol.org/?ipset=id_country_be)|Belgium (BE) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|679 subnets, 28464512 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
-[id_country_bf](http://iplists.firehol.org/?ipset=id_country_bf)|Burkina Faso (BF) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|16 subnets, 91392 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_bf](http://iplists.firehol.org/?ipset=id_country_bf)|Burkina Faso (BF) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|16 subnets, 91392 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_bg](http://iplists.firehol.org/?ipset=id_country_bg)|Bulgaria (BG) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|556 subnets, 4395008 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_bh](http://iplists.firehol.org/?ipset=id_country_bh)|Bahrain (BH) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|48 subnets, 456704 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
@@ -132,7 +131,6 @@ name|info|type|entries|update|
 [id_country_gi](http://iplists.firehol.org/?ipset=id_country_gi)|Gibraltar (GI) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|28 subnets, 80640 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_gl](http://iplists.firehol.org/?ipset=id_country_gl)|Greenland (GL) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|6 subnets, 21504 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_gl](http://iplists.firehol.org/?ipset=id_country_gl)|Greenland (GL) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|6 subnets, 21504 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
-[id_country_gm](http://iplists.firehol.org/?ipset=id_country_gm)|Gambia (GM) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|11 subnets, 27136 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_gm](http://iplists.firehol.org/?ipset=id_country_gm)|Gambia (GM) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|11 subnets, 27136 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_gn](http://iplists.firehol.org/?ipset=id_country_gn)|Guinea (GN) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|8 subnets, 24576 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_gn](http://iplists.firehol.org/?ipset=id_country_gn)|Guinea (GN) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|8 subnets, 24576 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
