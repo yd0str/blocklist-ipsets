@@ -57,25 +57,13 @@
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 3075,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 7085,
 		"common": 2
-	},
-	{
-		"name": "cleantalk_30d",
-		"category": "abuse",
-		"ips": 195583,
-		"common": 1
-	},
-	{
-		"name": "cleantalk_updated_30d",
-		"category": "abuse",
-		"ips": 227196,
-		"common": 1
 	},
 	{
 		"name": "dragon_http",
@@ -98,20 +86,20 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2271488,
+		"ips": 2270464,
 		"common": 8
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 467456,
+		"ips": 466432,
 		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 376002,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "firehol_anonymous",
@@ -123,13 +111,13 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 670806927,
-		"common": 1282
+		"common": 1266
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2351462,
-		"common": 83
+		"common": 82
 	},
 	{
 		"name": "firehol_level4",
@@ -195,7 +183,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "iblocklist_level2",
@@ -260,14 +248,14 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 537,
-		"common": 23
+		"ips": 528,
+		"common": 14
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 1374,
-		"common": 1282
+		"common": 1266
 	},
 	{
 		"name": "shunlist",
@@ -333,31 +321,31 @@
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 1821,
-		"common": 66
+		"common": 65
 	},
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 192226,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 343406,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 709472,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 191835,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "talosintel_ipfilter",
