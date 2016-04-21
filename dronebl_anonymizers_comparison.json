@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15842,
+		"ips": 15776,
 		"common": 127
 	},
 	{
@@ -222,22 +222,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 25,
+		"common": 3
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 658,
+		"ips": 657,
 		"common": 61
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17693,
+		"ips": 17690,
 		"common": 812
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5284,
-		"common": 348
+		"ips": 5286,
+		"common": 346
 	},
 	{
 		"name": "botvrij_dst",
@@ -266,7 +272,7 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 7493,
+		"ips": 7416,
 		"common": 3
 	},
 	{
@@ -482,7 +488,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 43254,
+		"ips": 43258,
 		"common": 1950
 	},
 	{
@@ -494,13 +500,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105036,
-		"common": 15051
+		"ips": 105038,
+		"common": 15052
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670806915,
+		"ips": 670806914,
 		"common": 58
 	},
 	{
@@ -518,14 +524,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572537,
+		"ips": 9572393,
 		"common": 1104
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 47841,
-		"common": 14893
+		"ips": 47843,
+		"common": 14894
 	},
 	{
 		"name": "firehol_webserver",
@@ -1160,26 +1166,26 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 25,
-		"common": 5
+		"ips": 26,
+		"common": 7
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 209,
-		"common": 68
+		"ips": 215,
+		"common": 69
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2408,
-		"common": 789
+		"ips": 2412,
+		"common": 792
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 898,
-		"common": 297
+		"ips": 906,
+		"common": 300
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1190,7 +1196,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 537,
+		"ips": 538,
 		"common": 1
 	},
 	{
@@ -1520,25 +1526,25 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 62,
-		"common": 15
+		"ips": 65,
+		"common": 21
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 140,
-		"common": 38
+		"ips": 143,
+		"common": 41
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 564,
-		"common": 156
+		"ips": 565,
+		"common": 157
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
 		"ips": 287,
-		"common": 82
+		"common": 83
 	}
 ]
