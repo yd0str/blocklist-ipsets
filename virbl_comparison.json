@@ -2,14 +2,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19860,
-		"common": 1
+		"ips": 19991,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 13946,
-		"common": 1
+		"ips": 13994,
+		"common": 2
 	},
 	{
 		"name": "chaosreigns_iprep0",
@@ -30,10 +30,22 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 42953,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 376728,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 117549,
-		"common": 36
+		"ips": 117678,
+		"common": 38
 	},
 	{
 		"name": "firehol_webserver",
@@ -75,13 +87,91 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1559620,
-		"common": 5
+		"common": 6
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 27291,
+		"common": 1
+	},
+	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 93,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_30d",
+		"category": "spam",
+		"ips": 850,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_7d",
+		"category": "spam",
+		"ips": 264,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 98,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_30d",
+		"category": "spam",
+		"ips": 1244,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_7d",
+		"category": "spam",
+		"ips": 354,
+		"common": 1
+	},
+	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_1d",
+		"category": "spam",
+		"ips": 93,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_30d",
+		"category": "spam",
+		"ips": 1258,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_7d",
+		"category": "spam",
+		"ips": 301,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45557640,
 		"common": 3
+	},
+	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 65290,
+		"common": 1
 	},
 	{
 		"name": "sorbs_noserver",
@@ -93,12 +183,24 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 804348,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 5825256,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 343406,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 709472,
 		"common": 1
 	}
 ]
