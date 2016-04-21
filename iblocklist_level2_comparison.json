@@ -272,7 +272,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1656,
+		"ips": 1663,
 		"common": 96
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16949,
+		"ips": 16982,
 		"common": 446
 	},
 	{
@@ -332,25 +332,31 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6980,
-		"common": 251
+		"ips": 6975,
+		"common": 249
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 22,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 829,
-		"common": 30
+		"ips": 836,
+		"common": 31
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17659,
-		"common": 380
+		"ips": 17634,
+		"common": 379
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5249,
+		"ips": 5235,
 		"common": 130
 	},
 	{
@@ -398,8 +404,8 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4335,
-		"common": 115
+		"ips": 4321,
+		"common": 117
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -506,7 +512,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6971,
+		"ips": 6973,
 		"common": 249
 	},
 	{
@@ -662,7 +668,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 44635,
+		"ips": 44638,
 		"common": 1062
 	},
 	{
@@ -674,13 +680,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105252,
-		"common": 2619
+		"ips": 105257,
+		"common": 2618
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670806643,
+		"ips": 670806645,
 		"common": 13443841
 	},
 	{
@@ -698,8 +704,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573090,
-		"common": 2537132
+		"ips": 9573099,
+		"common": 2537131
 	},
 	{
 		"name": "firehol_proxies",
@@ -1874,7 +1880,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 137,
+		"ips": 139,
 		"common": 6
 	}
 ]
