@@ -2,8 +2,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 20950,
-		"common": 2
+		"ips": 21069,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -32,31 +32,31 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45436,
+		"ips": 46055,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 376248,
+		"ips": 376331,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 130151,
-		"common": 40
+		"ips": 132067,
+		"common": 48
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573271,
+		"ips": 9573243,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 45763586,
+		"ips": 45763607,
 		"common": 3
 	},
 	{
@@ -102,6 +102,12 @@
 		"common": 1
 	},
 	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 1
+	},
+	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
@@ -116,20 +122,26 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29836,
-		"common": 1
+		"ips": 28665,
+		"common": 2
 	},
 	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
+		"common": 2
+	},
+	{
+		"name": "openbl_360d",
+		"category": "attacks",
+		"ips": 22861,
 		"common": 1
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 116185,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "php_commenters",
@@ -204,6 +216,12 @@
 		"common": 3
 	},
 	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 373476621,
+		"common": 1
+	},
+	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 67631,
@@ -225,6 +243,12 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 5825323,
+		"common": 1
+	},
+	{
+		"name": "sp_anti_infringement",
+		"category": "organizations",
+		"ips": 136186310,
 		"common": 1
 	},
 	{
