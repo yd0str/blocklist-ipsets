@@ -420,21 +420,27 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 90368,
+		"ips": 92160,
 		"common": 12
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2276352,
+		"ips": 2277632,
 		"common": 309
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 471296,
+		"ips": 472832,
 		"common": 41
 	},
 	{
@@ -500,25 +506,25 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105195,
+		"ips": 105189,
 		"common": 19
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 670806893,
-		"common": 143
+		"common": 145
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 112000,
+		"ips": 113791,
 		"common": 42
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2357350,
+		"ips": 2358628,
 		"common": 514
 	},
 	{
@@ -1022,7 +1028,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 530,
+		"ips": 529,
 		"common": 251
 	},
 	{
@@ -1239,6 +1245,6 @@
 		"name": "zeus_badips",
 		"category": "malware",
 		"ips": 139,
-		"common": 10
+		"common": 11
 	}
 ]
