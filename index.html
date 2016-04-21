@@ -1414,13 +1414,19 @@ $(function () {
 			$("meta[property='og:type']").attr('content', 'article');
 			$("meta[property='og:title']").attr('content', title);
 			$("meta[property='og:description']").attr('content', description);
+
+			$('#header_ipset').html('<strong>' + ipset + '</strong>');
+			$('#ipset_name').html(ipset + ' <small><small>by <a href="' + data.maintainer_url + '">' + data.maintainer + '</a></small></small>');
+			$('#ipset_info').html(data.info + '<br/>&nbsp;<p><a class="btn btn-primary btn-lg" href="#disqus"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span> Discuss ' + ipset + '</a>');
+		}
+		else {
+			$('#header_ipset').html('<strong>Home</strong>');
+			$('#ipset_name').html('All Cybercrime IP Feeds <small><small>by <a href="' + data.maintainer_url + '">' + data.maintainer + '</a></small></small>');
+			$('#ipset_info').html('This site analyses all available security IP Feeds, mainly related to on-line <b>attacks</b>, on-line service <b>abuse</b>, <b>malwares</b>, <b>botnets</b>, <b>command and control</b> servers and other cybercrime activities.<br/>&nbsp;<br/><small><b>Scroll down!</b> The main menu is several pages long...</small><br/>&nbsp;<br/><p><a class="btn btn-primary btn-lg" href="#disqus"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span> Discuss about this site! </a>');
 		}
 
 		// console.log(data);
 		// set the content on the page
-		$('#header_ipset').html('<strong>' + ipset + '</strong>');
-		$('#ipset_name').html(ipset + ' <small><small>by <a href="' + data.maintainer_url + '">' + data.maintainer + '</a></small></small>');
-		$('#ipset_info').html(data.info + '<br/>&nbsp;<p><a class="btn btn-primary btn-lg" href="#disqus"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span> Discuss ' + ipset + '</a>');
 
 		$('#open_bug').html('<div class="btn-group" role="group" aria-label="support_buttons" style="width: 100%;"><a class="btn btn-info" href="https://github.com/firehol/blocklist-ipsets/issues/new?title=[' + ipset + ']:%20give%20a%20title%20please&labels=feedback" target="_blank" style="display: block; width: 50%;"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Found a bug?</a><a class="btn btn-info" href="https://github.com/firehol/blocklist-ipsets/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+' + ipset + '" target="_blank" style="display: block; width: 50%;"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Search issues</a></div>');
 
