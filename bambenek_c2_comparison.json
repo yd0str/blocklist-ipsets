@@ -33,7 +33,7 @@
 		"name": "bambenek_ramnit",
 		"category": "malware",
 		"ips": 6,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "bambenek_simda",
@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15999,
+		"ips": 15991,
 		"common": 2
 	},
 	{
@@ -105,7 +105,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 51814,
-		"common": 64
+		"common": 65
 	},
 	{
 		"name": "blueliv_crimeserver_recent",
@@ -188,26 +188,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670806900,
-		"common": 229
+		"ips": 670806901,
+		"common": 230
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2352095,
+		"ips": 2352269,
 		"common": 27
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572090,
+		"ips": 9572083,
 		"common": 38
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45763539,
-		"common": 120
+		"common": 121
 	},
 	{
 		"name": "gofferje_sip",
@@ -231,7 +231,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 17899,
-		"common": 68
+		"common": 69
 	},
 	{
 		"name": "hphosts_exp",
@@ -273,19 +273,19 @@
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1537,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 9801,
-		"common": 52
+		"common": 53
 	},
 	{
 		"name": "hphosts_wrz",
 		"category": "reputation",
 		"ips": 882,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "iblocklist_abuse_palevo",
@@ -321,7 +321,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "iblocklist_level2",
@@ -363,13 +363,13 @@
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 12469,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 130
+		"common": 131
 	},
 	{
 		"name": "jigsaw_malware",
@@ -462,9 +462,15 @@
 		"common": 3
 	},
 	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 9759,
+		"common": 1
+	},
+	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 37927,
+		"ips": 38106,
 		"common": 6
 	},
 	{
@@ -489,6 +495,6 @@
 		"name": "yoyo_adservers",
 		"category": "organizations",
 		"ips": 13157,
-		"common": 13
+		"common": 14
 	}
 ]
