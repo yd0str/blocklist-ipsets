@@ -2,13 +2,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19662,
+		"ips": 19691,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14638,
+		"ips": 14640,
 		"common": 1
 	},
 	{
@@ -20,13 +20,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 107924,
-		"common": 32
+		"ips": 107952,
+		"common": 33
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2345632,
+		"ips": 2347936,
 		"common": 1
 	},
 	{
@@ -36,10 +36,16 @@
 		"common": 2
 	},
 	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2813,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_edu",
@@ -48,16 +54,10 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_isp_comcast",
-		"category": "organizations",
-		"ips": 45121536,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level2",
@@ -75,7 +75,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1580976,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -87,7 +87,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373476791,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "sorbs_recent_spam",
