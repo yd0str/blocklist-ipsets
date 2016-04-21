@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1028,
+		"ips": 1029,
 		"common": 1
 	},
 	{
@@ -60,27 +60,39 @@
 		"common": 72
 	},
 	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 10410,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2806,
-		"common": 44
+		"ips": 2814,
+		"common": 43
+	},
+	{
+		"name": "blocklist_de_bruteforce",
+		"category": "attacks",
+		"ips": 1187,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1054,
+		"ips": 1057,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14026,
-		"common": 27
+		"ips": 14040,
+		"common": 28
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 138,
+		"ips": 139,
 		"common": 1
 	},
 	{
@@ -680,8 +692,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29690,
-		"common": 124
+		"ips": 29765,
+		"common": 127
 	},
 	{
 		"name": "nullsecure",
