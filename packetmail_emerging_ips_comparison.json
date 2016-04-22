@@ -56,7 +56,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1185,
+		"ips": 1187,
 		"common": 2
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17598,
+		"ips": 17590,
 		"common": 1
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4138,
+		"ips": 4115,
 		"common": 2
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 7147,
+		"ips": 7062,
 		"common": 8
 	},
 	{
@@ -294,21 +294,27 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 110336,
+		"ips": 112128,
 		"common": 6
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2285312,
+		"ips": 2285824,
 		"common": 17
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 482048,
+		"ips": 482816,
 		"common": 14
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 46913,
+		"ips": 46914,
 		"common": 5
 	},
 	{
@@ -362,13 +368,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670758370,
-		"common": 19
+		"ips": 670758371,
+		"common": 21
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 134114,
+		"ips": 135904,
 		"common": 10
 	},
 	{
@@ -380,7 +386,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573993,
+		"ips": 9573902,
 		"common": 18
 	},
 	{
@@ -710,7 +716,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 530,
+		"ips": 522,
 		"common": 4
 	},
 	{
@@ -867,6 +873,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 162,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 138,
 		"common": 1
 	}
 ]
