@@ -98,7 +98,7 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4068,
+		"ips": 4061,
 		"common": 1
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 301434,
+		"ips": 301438,
 		"common": 55
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 851,
+		"ips": 852,
 		"common": 2
 	},
 	{
@@ -248,13 +248,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45441,
+		"ips": 45464,
 		"common": 94
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377764,
+		"ips": 377770,
 		"common": 1002
 	},
 	{
@@ -272,19 +272,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 146821,
+		"ips": 142470,
 		"common": 15
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2388732,
+		"ips": 2388476,
 		"common": 34
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571599,
+		"ips": 9571598,
 		"common": 52
 	},
 	{
@@ -546,16 +546,28 @@
 		"common": 1
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 97,
+		"common": 1
+	},
+	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 835,
+		"ips": 845,
 		"common": 7
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 258,
-		"common": 4
+		"ips": 266,
+		"common": 3
 	},
 	{
 		"name": "php_harvesters",
