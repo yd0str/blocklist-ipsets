@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 9924,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "atlas_attacks",
@@ -14,14 +14,14 @@
 	{
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
-		"ips": 94,
-		"common": 10
+		"ips": 98,
+		"common": 17
 	},
 	{
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
-		"ips": 33,
-		"common": 10
+		"ips": 38,
+		"common": 17
 	},
 	{
 		"name": "atlas_scans_2d",
@@ -45,7 +45,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 47854,
-		"common": 8
+		"common": 10
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -80,32 +80,32 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 196995,
+		"ips": 197009,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 94593,
+		"ips": 94492,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 226826,
+		"ips": 226837,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 99753,
+		"ips": 99650,
 		"common": 1
 	},
 	{
 		"name": "dragon_vncprobe",
 		"category": "attacks",
 		"ips": 169,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -129,13 +129,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 2283520,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 481024,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield_top_1000",
@@ -146,13 +146,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 376994,
+		"ips": 377006,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670758340,
+		"ips": 670758343,
 		"common": 1
 	},
 	{
@@ -164,8 +164,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2366458,
-		"common": 8
+		"ips": 2366530,
+		"common": 10
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 45763613,
+		"common": 1
 	},
 	{
 		"name": "greensnow",
@@ -180,10 +186,22 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_verizon",
+		"category": "organizations",
+		"ips": 18087936,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level3",
@@ -201,7 +219,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "lashback_ubl",
@@ -220,6 +238,18 @@
 		"category": "reputation",
 		"ips": 757,
 		"common": 7
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 45557640,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 373475848,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam",
@@ -243,6 +273,12 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 191438,
+		"common": 1
+	},
+	{
+		"name": "trustedsec_atif",
+		"category": "reputation",
+		"ips": 508,
 		"common": 1
 	},
 	{
