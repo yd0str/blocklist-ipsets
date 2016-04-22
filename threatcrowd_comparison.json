@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1851,
+		"ips": 1850,
 		"common": 1
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7003,
+		"ips": 7000,
 		"common": 3
 	},
 	{
@@ -500,14 +500,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105206,
+		"ips": 105272,
 		"common": 6
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670759637,
-		"common": 123
+		"ips": 670759639,
+		"common": 124
 	},
 	{
 		"name": "firehol_level2",
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2390825,
+		"ips": 2390929,
 		"common": 227
 	},
 	{
@@ -902,7 +902,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 27247,
+		"ips": 27550,
 		"common": 1
 	},
 	{
@@ -926,7 +926,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 172,
+		"ips": 168,
 		"common": 10
 	},
 	{
@@ -968,8 +968,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 731,
-		"common": 17
+		"ips": 734,
+		"common": 18
 	},
 	{
 		"name": "packetmail_emerging_ips",
@@ -1040,7 +1040,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 542,
+		"ips": 541,
 		"common": 41
 	},
 	{
@@ -1250,7 +1250,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 37337,
+		"ips": 37446,
 		"common": 43
 	},
 	{
@@ -1318,5 +1318,11 @@
 		"category": "malware",
 		"ips": 160,
 		"common": 3
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 137,
+		"common": 1
 	}
 ]
