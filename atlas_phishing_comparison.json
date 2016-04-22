@@ -8,7 +8,7 @@
 	{
 		"name": "atlas_phishing_30d",
 		"category": "attacks",
-		"ips": 22,
+		"ips": 23,
 		"common": 10
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4134,
+		"ips": 4138,
 		"common": 9
 	},
 	{
@@ -72,16 +72,22 @@
 		"common": 2
 	},
 	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 2368827,
+		"common": 1
+	},
+	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573958,
+		"ips": 9573952,
 		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45763613,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "hphosts_emd",
@@ -99,7 +105,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 9836,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -111,7 +117,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "jigsaw_malware",
@@ -123,6 +129,12 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 530,
+		"common": 1
+	},
+	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 38063,
 		"common": 1
 	}
 ]
