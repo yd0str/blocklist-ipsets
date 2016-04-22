@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16413,
+		"ips": 16406,
 		"common": 33
 	},
 	{
@@ -96,15 +96,21 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 24,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 744,
-		"common": 29
+		"ips": 747,
+		"common": 31
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17480,
+		"ips": 17485,
 		"common": 233
 	},
 	{
@@ -206,7 +212,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 301195,
+		"ips": 301196,
 		"common": 343
 	},
 	{
@@ -236,13 +242,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2302208,
+		"ips": 2303488,
 		"common": 10
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 505856,
+		"ips": 506112,
 		"common": 2
 	},
 	{
@@ -254,7 +260,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45302,
+		"ips": 45308,
 		"common": 495
 	},
 	{
@@ -272,19 +278,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 144823,
+		"ips": 144565,
 		"common": 159
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2384639,
+		"ips": 2385921,
 		"common": 25
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572171,
+		"ips": 9572161,
 		"common": 239
 	},
 	{
@@ -734,7 +740,7 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 73534,
+		"ips": 76095,
 		"common": 8
 	},
 	{
@@ -746,7 +752,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 800832,
+		"ips": 800361,
 		"common": 34
 	},
 	{
@@ -758,7 +764,7 @@
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 5826135,
+		"ips": 5826175,
 		"common": 28
 	},
 	{
@@ -843,12 +849,6 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 9635,
-		"common": 1
-	},
-	{
-		"name": "tor_exits_30d",
-		"category": "anonymizers",
-		"ips": 3092,
 		"common": 1
 	},
 	{

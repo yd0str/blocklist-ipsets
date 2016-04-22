@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16413,
+		"ips": 16406,
 		"common": 72
 	},
 	{
@@ -108,27 +108,33 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 24,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 744,
-		"common": 38
+		"ips": 747,
+		"common": 39
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17480,
+		"ips": 17485,
 		"common": 322
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
 		"ips": 4892,
-		"common": 177
+		"common": 176
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 6732,
+		"ips": 6719,
 		"common": 1
 	},
 	{
@@ -230,7 +236,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 301195,
+		"ips": 301196,
 		"common": 524
 	},
 	{
@@ -260,13 +266,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2302208,
+		"ips": 2303488,
 		"common": 15
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 505856,
+		"ips": 506112,
 		"common": 3
 	},
 	{
@@ -278,7 +284,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45302,
+		"ips": 45308,
 		"common": 787
 	},
 	{
@@ -296,19 +302,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 144823,
+		"ips": 144565,
 		"common": 298
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2384639,
+		"ips": 2385921,
 		"common": 37
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572171,
+		"ips": 9572161,
 		"common": 342
 	},
 	{
@@ -806,7 +812,7 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 73534,
+		"ips": 76095,
 		"common": 63
 	},
 	{
@@ -818,7 +824,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 800832,
+		"ips": 800361,
 		"common": 124
 	},
 	{
@@ -830,7 +836,7 @@
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 5826135,
+		"ips": 5826175,
 		"common": 146
 	},
 	{
@@ -910,12 +916,6 @@
 		"category": "attacks",
 		"ips": 37675,
 		"common": 5
-	},
-	{
-		"name": "tor_exits_30d",
-		"category": "anonymizers",
-		"ips": 3092,
-		"common": 1
 	},
 	{
 		"name": "xroxy",

@@ -50,7 +50,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30318,
+		"ips": 30313,
 		"common": 1
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16413,
+		"ips": 16406,
 		"common": 113
 	},
 	{
@@ -126,27 +126,33 @@
 		"common": 4
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 24,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 744,
-		"common": 50
+		"ips": 747,
+		"common": 52
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17480,
+		"ips": 17485,
 		"common": 783
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
 		"ips": 4892,
-		"common": 369
+		"common": 367
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 6732,
+		"ips": 6719,
 		"common": 1
 	},
 	{
@@ -260,7 +266,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 301195,
+		"ips": 301196,
 		"common": 1836
 	},
 	{
@@ -290,19 +296,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 120576,
+		"ips": 120320,
 		"common": 2
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2302208,
+		"ips": 2303488,
 		"common": 47
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 505856,
+		"ips": 506112,
 		"common": 9
 	},
 	{
@@ -314,7 +320,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45302,
+		"ips": 45308,
 		"common": 1925
 	},
 	{
@@ -332,19 +338,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 144823,
+		"ips": 144565,
 		"common": 532
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2384639,
+		"ips": 2385921,
 		"common": 94
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572171,
+		"ips": 9572161,
 		"common": 819
 	},
 	{
@@ -932,7 +938,7 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 73534,
+		"ips": 76095,
 		"common": 125
 	},
 	{
@@ -944,7 +950,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 800832,
+		"ips": 800361,
 		"common": 345
 	},
 	{
@@ -956,7 +962,7 @@
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 5826135,
+		"ips": 5826175,
 		"common": 373
 	},
 	{
@@ -1054,12 +1060,6 @@
 		"category": "attacks",
 		"ips": 37675,
 		"common": 17
-	},
-	{
-		"name": "tor_exits_30d",
-		"category": "anonymizers",
-		"ips": 3092,
-		"common": 1
 	},
 	{
 		"name": "turris_greylist",
