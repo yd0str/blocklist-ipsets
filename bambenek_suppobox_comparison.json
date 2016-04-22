@@ -3,13 +3,13 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 231,
-		"common": 63
+		"common": 65
 	},
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 122,
-		"common": 4
+		"ips": 118,
+		"common": 6
 	},
 	{
 		"name": "bds_atif",
@@ -27,37 +27,37 @@
 		"name": "blueliv_crimeserver_last_1d",
 		"category": "attacks",
 		"ips": 7802,
-		"common": 10
+		"common": 12
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
 		"ips": 13173,
-		"common": 12
+		"common": 14
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 37234,
-		"common": 14
+		"common": 20
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
 		"ips": 24294,
-		"common": 13
+		"common": 18
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 51814,
-		"common": 19
+		"common": 27
 	},
 	{
 		"name": "blueliv_crimeserver_recent",
 		"category": "attacks",
 		"ips": 5147,
-		"common": 7
+		"common": 9
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -69,7 +69,7 @@
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 7147,
-		"common": 9
+		"common": 12
 	},
 	{
 		"name": "cta_cryptowall",
@@ -93,7 +93,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 670758340,
-		"common": 63
+		"common": 65
 	},
 	{
 		"name": "firehol_level3",
@@ -104,14 +104,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573880,
-		"common": 10
+		"ips": 9573957,
+		"common": 13
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 45763607,
-		"common": 38
+		"ips": 45763613,
+		"common": 55
 	},
 	{
 		"name": "gofferje_sip",
@@ -129,55 +129,61 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 16210,
-		"common": 17
+		"common": 22
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 17914,
-		"common": 27
+		"common": 33
 	},
 	{
 		"name": "hphosts_exp",
 		"category": "malware",
 		"ips": 331,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 8148,
-		"common": 25
+		"common": 31
 	},
 	{
 		"name": "hphosts_grm",
 		"category": "spam",
 		"ips": 270,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "hphosts_hfs",
+		"category": "abuse",
+		"ips": 255,
+		"common": 1
 	},
 	{
 		"name": "hphosts_mmt",
 		"category": "reputation",
 		"ips": 1154,
-		"common": 9
+		"common": 12
 	},
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1537,
-		"common": 11
+		"common": 14
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 9836,
-		"common": 21
+		"common": 28
 	},
 	{
 		"name": "hphosts_wrz",
 		"category": "reputation",
 		"ips": 882,
-		"common": 8
+		"common": 10
 	},
 	{
 		"name": "iblocklist_abuse_palevo",
@@ -189,31 +195,31 @@
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888645,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 7
+		"common": 9
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 9
+		"common": 14
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139039391,
-		"common": 4
+		"common": 10
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -225,25 +231,25 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 12469,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 4
+		"common": 7
 	},
 	{
 		"name": "malc0de",
@@ -261,7 +267,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45557640,
-		"common": 13
+		"common": 25
 	},
 	{
 		"name": "stopforumspam_180d",
@@ -285,6 +291,6 @@
 		"name": "yoyo_adservers",
 		"category": "organizations",
 		"ips": 13157,
-		"common": 7
+		"common": 8
 	}
 ]
