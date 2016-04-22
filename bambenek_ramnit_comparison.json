@@ -54,6 +54,24 @@
 		"common": 3
 	},
 	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 197277,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 80174,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 377520,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 670758354,
@@ -62,14 +80,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2378469,
+		"ips": 2378466,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45763613,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "hphosts_ats",
@@ -147,13 +165,19 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 5
+		"common": 6
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 45557640,
+		"common": 1
 	},
 	{
 		"name": "snort_ipfilter",

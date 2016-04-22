@@ -32,7 +32,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377466,
+		"ips": 377520,
 		"common": 1
 	},
 	{
@@ -44,7 +44,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573516,
+		"ips": 9573517,
 		"common": 1
 	},
 	{
@@ -52,6 +52,12 @@
 		"category": "attacks",
 		"ips": 45763613,
 		"common": 3
+	},
+	{
+		"name": "graphiclineweb",
+		"category": "abuse",
+		"ips": 330527,
+		"common": 1
 	},
 	{
 		"name": "haley_ssh",
@@ -81,7 +87,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level3",
@@ -96,9 +102,15 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_org_microsoft",
+		"category": "organizations",
+		"ips": 1848447,
+		"common": 1
+	},
+	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 2242,
+		"ips": 2247,
 		"common": 2
 	},
 	{
