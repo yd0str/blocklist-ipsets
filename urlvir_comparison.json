@@ -26,7 +26,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16605,
+		"ips": 16575,
 		"common": 1
 	},
 	{
@@ -68,13 +68,13 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 3984,
+		"ips": 3995,
 		"common": 6
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 6733,
+		"ips": 6747,
 		"common": 16
 	},
 	{
@@ -98,13 +98,13 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 300907,
+		"ips": 300906,
 		"common": 1
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2300928,
+		"ips": 2301952,
 		"common": 2
 	},
 	{
@@ -128,19 +128,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670759888,
-		"common": 2
+		"ips": 670759635,
+		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2383053,
+		"ips": 2384081,
 		"common": 26
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572392,
+		"ips": 9572363,
 		"common": 26
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 541,
+		"ips": 532,
 		"common": 3
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 37750,
+		"ips": 37588,
 		"common": 1
 	},
 	{
@@ -363,6 +363,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 160,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 140,
 		"common": 1
 	}
 ]
