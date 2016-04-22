@@ -20,8 +20,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 147190,
-		"common": 40
+		"ips": 147191,
+		"common": 41
 	},
 	{
 		"name": "firehol_webserver",
@@ -42,12 +42,6 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_isp_att",
-		"category": "organizations",
-		"ips": 55845128,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
@@ -60,12 +54,6 @@
 		"common": 2
 	},
 	{
-		"name": "iblocklist_org_blizzard",
-		"category": "organizations",
-		"ips": 16795139,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_org_microsoft",
 		"category": "organizations",
 		"ips": 1848447,
@@ -75,7 +63,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1383248,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "nixspam",
@@ -93,7 +81,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373440706,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -105,6 +93,12 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 799625,
-		"common": 5
+		"common": 6
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 5826251,
+		"common": 1
 	}
 ]
