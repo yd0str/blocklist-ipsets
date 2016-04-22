@@ -2,14 +2,14 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 10033,
+		"ips": 9934,
 		"common": 1
 	},
 	{
 		"name": "anonymous",
 		"category": "geolocation",
 		"ips": 50520,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "bds_atif",
@@ -33,48 +33,48 @@
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
 		"ips": 271,
-		"common": 265
+		"common": 266
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
 		"ips": 298,
-		"common": 289
+		"common": 290
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 1709,
-		"common": 1374
+		"common": 1379
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
 		"ips": 706,
-		"common": 645
+		"common": 649
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7583,
-		"common": 5639
+		"ips": 7580,
+		"common": 5641
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30314,
-		"common": 5639
+		"ips": 30321,
+		"common": 5641
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
 		"ips": 13018,
-		"common": 5639
+		"common": 5641
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15970,
+		"ips": 15999,
 		"common": 1
 	},
 	{
@@ -219,7 +219,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 229889,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -243,13 +243,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 2307584,
-		"common": 79
+		"common": 80
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 511488,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "dshield_top_1000",
@@ -291,7 +291,7 @@
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 105208,
-		"common": 132
+		"common": 129
 	},
 	{
 		"name": "firehol_level1",
@@ -309,25 +309,25 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2390258,
-		"common": 90
+		"common": 91
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571718,
+		"ips": 9571745,
 		"common": 15
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
 		"ips": 47948,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45763920,
-		"common": 1568
+		"common": 1570
 	},
 	{
 		"name": "fullbogons",
@@ -435,7 +435,7 @@
 		"name": "iblocklist_isp_cablevision",
 		"category": "organizations",
 		"ips": 1787136,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "iblocklist_isp_charter",
@@ -447,7 +447,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 256
+		"common": 253
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -471,7 +471,7 @@
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
-		"common": 60
+		"common": 58
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -495,7 +495,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139039391,
-		"common": 542
+		"common": 543
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -555,7 +555,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 65
+		"common": 66
 	},
 	{
 		"name": "jigsaw_malware",
@@ -627,7 +627,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45557640,
-		"common": 1537
+		"common": 1539
 	},
 	{
 		"name": "ri_connect_proxies_30d",
@@ -660,12 +660,6 @@
 		"common": 9
 	},
 	{
-		"name": "socks_proxy_30d",
-		"category": "anonymizers",
-		"ips": 23861,
-		"common": 1
-	},
-	{
 		"name": "sorbs_anonymizers",
 		"category": "spam",
 		"ips": 600934,
@@ -675,7 +669,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373440706,
-		"common": 940
+		"common": 938
 	},
 	{
 		"name": "sorbs_noserver",
@@ -693,7 +687,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 5826205,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "sp_anti_infringement",
