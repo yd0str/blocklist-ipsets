@@ -212,7 +212,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16316,
+		"ips": 16323,
 		"common": 109
 	},
 	{
@@ -428,8 +428,8 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 301196,
-		"common": 312
+		"ips": 301400,
+		"common": 314
 	},
 	{
 		"name": "dronebl_autorooting_worms",
@@ -482,8 +482,8 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 850,
-		"common": 193
+		"ips": 851,
+		"common": 194
 	},
 	{
 		"name": "et_block",
@@ -524,14 +524,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45270,
-		"common": 38
+		"ips": 45267,
+		"common": 40
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377516,
-		"common": 259
+		"ips": 377542,
+		"common": 260
 	},
 	{
 		"name": "firehol_anonymous",
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572067,
+		"ips": 9572071,
 		"common": 979
 	},
 	{
@@ -1074,16 +1074,28 @@
 		"common": 2
 	},
 	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 2
+	},
+	{
+		"name": "php_spammers_1d",
+		"category": "spam",
+		"ips": 50,
+		"common": 2
+	},
+	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1214,
-		"common": 12
+		"ips": 1247,
+		"common": 13
 	},
 	{
 		"name": "php_spammers_7d",
 		"category": "spam",
-		"ips": 341,
-		"common": 5
+		"ips": 336,
+		"common": 6
 	},
 	{
 		"name": "proxylists_30d",
