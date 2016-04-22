@@ -96,16 +96,28 @@
 		"common": 2
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 2
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 120576,
+		"common": 2
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2302976,
-		"common": 13
+		"ips": 2305024,
+		"common": 15
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 506112,
-		"common": 4
+		"ips": 507648,
+		"common": 6
 	},
 	{
 		"name": "et_block",
@@ -128,7 +140,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377577,
+		"ips": 377568,
 		"common": 1
 	},
 	{
@@ -140,8 +152,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670759371,
+		"ips": 670759369,
 		"common": 1697
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 144848,
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
