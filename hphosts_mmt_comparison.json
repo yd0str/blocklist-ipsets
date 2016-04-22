@@ -38,7 +38,7 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 15,
+		"ips": 13,
 		"common": 3
 	},
 	{
@@ -236,19 +236,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105125,
+		"ips": 105075,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670758371,
-		"common": 30
+		"ips": 670758370,
+		"common": 31
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 136622,
+		"ips": 136621,
 		"common": 1
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
-		"ips": 1094867,
+		"ips": 1094868,
 		"common": 16
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6232,
+		"ips": 6224,
 		"common": 1
 	},
 	{
@@ -681,6 +681,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 162,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 139,
 		"common": 1
 	}
 ]
