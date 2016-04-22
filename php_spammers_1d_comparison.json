@@ -44,19 +44,19 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 3273,
+		"ips": 3277,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1382,
+		"ips": 1388,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14117,
+		"ips": 14144,
 		"common": 14
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 301409,
+		"ips": 301407,
 		"common": 1
 	},
 	{
@@ -212,13 +212,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45181,
+		"ips": 45182,
 		"common": 50
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377579,
+		"ips": 377580,
 		"common": 50
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26110,
+		"ips": 26472,
 		"common": 30
 	},
 	{
@@ -388,6 +388,30 @@
 		"category": "spam",
 		"ips": 306,
 		"common": 11
+	},
+	{
+		"name": "php_harvesters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_harvesters_1d",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_harvesters_30d",
+		"category": "spam",
+		"ips": 482,
+		"common": 1
+	},
+	{
+		"name": "php_harvesters_7d",
+		"category": "spam",
+		"ips": 164,
+		"common": 1
 	},
 	{
 		"name": "php_spammers",
