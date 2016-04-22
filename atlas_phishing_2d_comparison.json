@@ -56,13 +56,19 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 6719,
+		"ips": 6652,
 		"common": 2
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 2390055,
+		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571745,
+		"ips": 9571601,
 		"common": 2
 	},
 	{
@@ -111,6 +117,12 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 532,
+		"common": 1
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 37337,
 		"common": 1
 	}
 ]
