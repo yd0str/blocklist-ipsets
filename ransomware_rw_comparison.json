@@ -8,7 +8,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16406,
+		"ips": 16316,
 		"common": 1
 	},
 	{
@@ -96,16 +96,22 @@
 		"common": 2
 	},
 	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 120320,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2303488,
-		"common": 13
+		"ips": 2302976,
+		"common": 14
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 506112,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "et_block",
@@ -140,19 +146,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670759373,
-		"common": 1699
+		"ips": 670759372,
+		"common": 1698
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 144537,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2385921,
-		"common": 99
+		"ips": 2385542,
+		"common": 100
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572161,
+		"ips": 9572067,
 		"common": 16
 	},
 	{
@@ -302,8 +314,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 531,
-		"common": 99
+		"ips": 532,
+		"common": 106
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -314,8 +326,8 @@
 	{
 		"name": "ransomware_teslacrypt_ps",
 		"category": "malware",
-		"ips": 1607,
-		"common": 1607
+		"ips": 1606,
+		"common": 1606
 	},
 	{
 		"name": "shunlist",
@@ -339,7 +351,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373440716,
-		"common": 187
+		"common": 188
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -422,7 +434,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 37675,
+		"ips": 37809,
 		"common": 8
 	},
 	{
