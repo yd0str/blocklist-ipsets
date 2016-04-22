@@ -8,7 +8,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 244,
+		"ips": 245,
 		"common": 12
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 46715,
+		"ips": 46717,
 		"common": 1
 	},
 	{
@@ -218,25 +218,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670759888,
+		"ips": 670759889,
 		"common": 15
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 143077,
+		"ips": 144383,
 		"common": 4
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2384220,
-		"common": 40
+		"ips": 2383206,
+		"common": 41
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572286,
+		"ips": 9572280,
 		"common": 139
 	},
 	{
@@ -458,8 +458,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 27774,
-		"common": 1
+		"ips": 27510,
+		"common": 2
 	},
 	{
 		"name": "nullsecure",
@@ -488,8 +488,14 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 531,
+		"ips": 532,
 		"common": 11
+	},
+	{
+		"name": "shunlist",
+		"category": "attacks",
+		"ips": 500,
+		"common": 2
 	},
 	{
 		"name": "snort_ipfilter",
