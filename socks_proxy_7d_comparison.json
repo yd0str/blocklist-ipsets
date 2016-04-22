@@ -50,7 +50,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30313,
+		"ips": 30322,
 		"common": 1
 	},
 	{
@@ -153,7 +153,7 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 197801,
-		"common": 1312
+		"common": 1310
 	},
 	{
 		"name": "cleantalk_7d",
@@ -201,7 +201,7 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 226530,
-		"common": 1332
+		"common": 1330
 	},
 	{
 		"name": "cleantalk_updated_7d",
@@ -302,26 +302,26 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105261,
-		"common": 4385
+		"ips": 105266,
+		"common": 4358
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670759372,
+		"ips": 670759371,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 144537,
+		"ips": 144547,
 		"common": 421
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2385546,
-		"common": 128
+		"common": 127
 	},
 	{
 		"name": "firehol_level4",
@@ -332,8 +332,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 47934,
-		"common": 4385
+		"ips": 47939,
+		"common": 4358
 	},
 	{
 		"name": "firehol_webserver",
@@ -362,7 +362,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3439,
+		"ips": 3448,
 		"common": 2
 	},
 	{
@@ -381,7 +381,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 203
+		"common": 204
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -423,7 +423,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 65
+		"common": 66
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -543,7 +543,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1383248,
-		"common": 2217
+		"common": 2193
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -561,7 +561,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 23038,
-		"common": 781
+		"common": 782
 	},
 	{
 		"name": "nullsecure",
@@ -669,7 +669,7 @@
 		"name": "php_spammers_30d",
 		"category": "spam",
 		"ips": 1214,
-		"common": 181
+		"common": 182
 	},
 	{
 		"name": "php_spammers_7d",
@@ -807,7 +807,7 @@
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
 		"ips": 5706,
-		"common": 546
+		"common": 545
 	},
 	{
 		"name": "ri_web_proxies_7d",
@@ -831,7 +831,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 37794,
-		"common": 74
+		"common": 73
 	},
 	{
 		"name": "socks_proxy",
@@ -842,14 +842,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1372,
-		"common": 1372
+		"ips": 1383,
+		"common": 1383
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
 		"ips": 23867,
-		"common": 4433
+		"common": 4406
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -861,13 +861,13 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373440716,
-		"common": 593
+		"common": 592
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 76095,
-		"common": 1012
+		"common": 1013
 	},
 	{
 		"name": "sorbs_noserver",
@@ -879,7 +879,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 800361,
-		"common": 2210
+		"common": 2196
 	},
 	{
 		"name": "sorbs_web",
@@ -900,21 +900,27 @@
 		"common": 1
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 624,
-		"common": 2
+		"ips": 629,
+		"common": 3
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 12377,
+		"ips": 12381,
 		"common": 13
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3591,
+		"ips": 3582,
 		"common": 9
 	},
 	{
@@ -939,7 +945,7 @@
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 68550,
-		"common": 444
+		"common": 443
 	},
 	{
 		"name": "stopforumspam_365d",
@@ -975,7 +981,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 37809,
-		"common": 74
+		"common": 73
 	},
 	{
 		"name": "threatcrowd",
