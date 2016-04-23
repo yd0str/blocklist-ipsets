@@ -3,24 +3,24 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 9934,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "atlas_attacks_2d",
 		"category": "attacks",
-		"ips": 17,
+		"ips": 19,
 		"common": 10
 	},
 	{
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
-		"ips": 98,
+		"ips": 99,
 		"common": 10
 	},
 	{
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
-		"ips": 38,
+		"ips": 39,
 		"common": 10
 	},
 	{
@@ -45,7 +45,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 48717,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "ciarmy",
@@ -69,7 +69,7 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 120320,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield_30d",
@@ -87,37 +87,43 @@
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 852,
+		"common": 2
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 23289339,
+		"common": 1
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670719689,
+		"ips": 670719696,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 144788,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2390678,
+		"ips": 2390755,
 		"common": 3
-	},
-	{
-		"name": "firehol_webserver",
-		"category": "attacks",
-		"ips": 45763902,
-		"common": 1
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 3429,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -138,22 +144,22 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762822833,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
 		"common": 2
-	},
-	{
-		"name": "pushing_inertia_blocklist",
-		"category": "reputation",
-		"ips": 45557640,
-		"common": 1
 	},
 	{
 		"name": "sorbs_dul",
@@ -171,6 +177,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 9984,
-		"common": 1
+		"common": 2
 	}
 ]

@@ -14,14 +14,14 @@
 	{
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
-		"ips": 98,
-		"common": 17
+		"ips": 99,
+		"common": 19
 	},
 	{
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
-		"ips": 38,
-		"common": 17
+		"ips": 39,
+		"common": 19
 	},
 	{
 		"name": "atlas_scans_2d",
@@ -105,24 +105,36 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 120320,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 2307584,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 506368,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 852,
+		"common": 2
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 23289339,
+		"common": 1
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
 		"common": 1
 	},
 	{
@@ -134,20 +146,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670719689,
+		"ips": 670719696,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 144788,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2390678,
-		"common": 10
+		"ips": 2390755,
+		"common": 11
 	},
 	{
 		"name": "firehol_webserver",
@@ -159,7 +171,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 3429,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -177,6 +189,12 @@
 		"name": "iblocklist_isp_verizon",
 		"category": "organizations",
 		"ips": 18087936,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762822833,
 		"common": 1
 	},
 	{
@@ -201,7 +219,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "lashback_ubl",
@@ -261,6 +279,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 9984,
-		"common": 1
+		"common": 2
 	}
 ]
