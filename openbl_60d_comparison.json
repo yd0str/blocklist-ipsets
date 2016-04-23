@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1024,
-		"common": 469
+		"ips": 1020,
+		"common": 464
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -92,8 +92,8 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 11094,
-		"common": 4
+		"ips": 11093,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_ftp",
@@ -104,13 +104,13 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1346,
+		"ips": 1345,
 		"common": 50
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14804,
+		"ips": 14847,
 		"common": 66
 	},
 	{
@@ -195,6 +195,12 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 572,
+		"common": 1
+	},
+	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 3385,
 		"common": 1
 	},
 	{
@@ -686,8 +692,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30547,
-		"common": 9
+		"ips": 30928,
+		"common": 8
 	},
 	{
 		"name": "nt_ssh_7d",

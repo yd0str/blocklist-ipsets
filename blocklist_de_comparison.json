@@ -56,8 +56,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1024,
-		"common": 705
+		"ips": 1020,
+		"common": 704
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -116,14 +116,14 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 11094,
-		"common": 11094
+		"ips": 11093,
+		"common": 11093
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 3194,
-		"common": 3194
+		"ips": 3203,
+		"common": 3202
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -135,19 +135,19 @@
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
 		"ips": 651,
-		"common": 650
+		"common": 651
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1346,
-		"common": 1346
+		"ips": 1345,
+		"common": 1345
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14804,
-		"common": 14804
+		"ips": 14847,
+		"common": 14845
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -249,6 +249,12 @@
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
 		"ips": 605015624,
+		"common": 2
+	},
+	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 3385,
 		"common": 2
 	},
 	{
@@ -896,8 +902,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30547,
-		"common": 1381
+		"ips": 30928,
+		"common": 1385
 	},
 	{
 		"name": "nt_ssh_7d",
