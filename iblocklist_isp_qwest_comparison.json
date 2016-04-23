@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22984,
+		"ips": 22949,
 		"common": 6
 	},
 	{
@@ -80,13 +80,13 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1306,
+		"ips": 1284,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15552,
+		"ips": 15561,
 		"common": 5
 	},
 	{
@@ -160,6 +160,12 @@
 		"category": "spam",
 		"ips": 5298,
 		"common": 26
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 6311,
+		"common": 1
 	},
 	{
 		"name": "cleantalk",
@@ -350,13 +356,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105198,
+		"ips": 105193,
 		"common": 35
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142892,
+		"ips": 142912,
 		"common": 263
 	},
 	{
@@ -368,13 +374,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570795,
-		"common": 878
+		"ips": 9570858,
+		"common": 879
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 47966,
+		"ips": 47961,
 		"common": 18
 	},
 	{
@@ -398,13 +404,13 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3115,
+		"ips": 3173,
 		"common": 1
 	},
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 20986,
+		"ips": 20988,
 		"common": 33
 	},
 	{
@@ -762,21 +768,27 @@
 		"common": 4
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1566,
+		"ips": 1546,
 		"common": 3
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23689,
+		"ips": 23683,
 		"common": 11
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4161,
+		"ips": 4164,
 		"common": 7
 	},
 	{
