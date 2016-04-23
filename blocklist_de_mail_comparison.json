@@ -330,21 +330,27 @@
 		"common": 20
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 5
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 124672,
+		"ips": 126720,
 		"common": 41
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2337536,
+		"ips": 2339072,
 		"common": 207
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 533760,
+		"ips": 534528,
 		"common": 92
 	},
 	{
@@ -398,13 +404,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670720466,
-		"common": 28
+		"ips": 670720210,
+		"common": 32
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 151402,
+		"ips": 153450,
 		"common": 17322
 	},
 	{
@@ -1156,6 +1162,12 @@
 		"category": "reputation",
 		"ips": 23286016,
 		"common": 27
+	},
+	{
+		"name": "spamhaus_edrop",
+		"category": "reputation",
+		"ips": 780544,
+		"common": 4
 	},
 	{
 		"name": "sslbl_aggressive",
