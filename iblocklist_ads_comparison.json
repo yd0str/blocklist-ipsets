@@ -32,7 +32,7 @@
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 72,
+		"ips": 73,
 		"common": 1
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30221,
+		"ips": 30219,
 		"common": 1
 	},
 	{
@@ -98,19 +98,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1258,
+		"ips": 1257,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16079,
+		"ips": 16127,
 		"common": 7
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15013,
+		"ips": 14906,
 		"common": 10
 	},
 	{
@@ -164,13 +164,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17384,
+		"ips": 17383,
 		"common": 12
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4890,
+		"ips": 4884,
 		"common": 3
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105371,
+		"ips": 105369,
 		"common": 1287
 	},
 	{
@@ -422,25 +422,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 146576,
+		"ips": 146579,
 		"common": 24
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2409892,
-		"common": 299
+		"ips": 2409893,
+		"common": 300
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570270,
+		"ips": 9570166,
 		"common": 92478
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 48037,
+		"ips": 48035,
 		"common": 9
 	},
 	{
@@ -926,13 +926,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23625,
+		"ips": 23619,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4101,
+		"ips": 4105,
 		"common": 1
 	},
 	{
@@ -1010,7 +1010,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 12765,
+		"ips": 12768,
 		"common": 1
 	},
 	{
@@ -1126,5 +1126,11 @@
 		"category": "organizations",
 		"ips": 13153,
 		"common": 1121
+	},
+	{
+		"name": "zeus",
+		"category": "malware",
+		"ips": 162,
+		"common": 1
 	}
 ]
