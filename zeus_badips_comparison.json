@@ -1,38 +1,32 @@
 [
 	{
-		"name": "alienvault_reputation",
-		"category": "reputation",
-		"ips": 10028,
-		"common": 1
-	},
-	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 49574,
-		"common": 136
+		"common": 135
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 37060,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 52025,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 198698,
+		"ips": 198699,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 81531,
+		"ips": 81546,
 		"common": 1
 	},
 	{
@@ -74,14 +68,14 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377920,
+		"ips": 377940,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670720202,
-		"common": 137
+		"ips": 670720201,
+		"common": 136
 	},
 	{
 		"name": "firehol_level2",
@@ -93,7 +87,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2415599,
-		"common": 137
+		"common": 136
 	},
 	{
 		"name": "firehol_level4",
@@ -105,7 +99,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45763920,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "gofferje_sip",
@@ -123,55 +117,31 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 16210,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 17827,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 8200,
-		"common": 2
-	},
-	{
-		"name": "hphosts_mmt",
-		"category": "reputation",
-		"ips": 1154,
-		"common": 1
-	},
-	{
-		"name": "hphosts_pha",
-		"category": "reputation",
-		"ips": 1536,
 		"common": 1
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 9926,
-		"common": 3
-	},
-	{
-		"name": "hphosts_wrz",
-		"category": "reputation",
-		"ips": 882,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_abuse_zeus",
 		"category": "malware",
 		"ips": 212,
 		"common": 107
-	},
-	{
-		"name": "iblocklist_ads",
-		"category": "organizations",
-		"ips": 888645,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -231,7 +201,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 115
+		"common": 114
 	},
 	{
 		"name": "openbl_360d",
@@ -333,18 +303,12 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 36200,
-		"common": 122
-	},
-	{
-		"name": "threatcrowd",
-		"category": "malware",
-		"ips": 2594,
-		"common": 1
+		"common": 121
 	},
 	{
 		"name": "zeus",
 		"category": "malware",
 		"ips": 162,
-		"common": 137
+		"common": 136
 	}
 ]
