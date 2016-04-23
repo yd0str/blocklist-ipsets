@@ -50,7 +50,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30181,
+		"ips": 30191,
 		"common": 1
 	},
 	{
@@ -252,9 +252,15 @@
 		"common": 12
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 124416,
+		"ips": 124672,
 		"common": 3
 	},
 	{
@@ -266,7 +272,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 531456,
+		"ips": 529920,
 		"common": 8
 	},
 	{
@@ -296,19 +302,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105282,
-		"common": 4010
+		"ips": 105287,
+		"common": 4011
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670720455,
-		"common": 1
+		"ips": 670719688,
+		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 150691,
+		"ips": 150947,
 		"common": 480
 	},
 	{
@@ -320,14 +326,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569939,
+		"ips": 9569941,
 		"common": 119
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 48047,
-		"common": 4010
+		"ips": 48052,
+		"common": 4011
 	},
 	{
 		"name": "firehol_webserver",
@@ -518,8 +524,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 2890,
-		"common": 66
+		"ips": 2899,
+		"common": 68
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -848,14 +854,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1473,
-		"common": 1473
+		"ips": 1480,
+		"common": 1480
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23494,
-		"common": 4062
+		"ips": 23473,
+		"common": 4063
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -873,7 +879,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 77270,
-		"common": 981
+		"common": 982
 	},
 	{
 		"name": "sorbs_noserver",
@@ -885,7 +891,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 791482,
-		"common": 1951
+		"common": 1952
 	},
 	{
 		"name": "sorbs_web",
@@ -906,21 +912,27 @@
 		"common": 1
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 724,
-		"common": 2
+		"ips": 752,
+		"common": 3
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 12872,
+		"ips": 12899,
 		"common": 12
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3750,
+		"ips": 3777,
 		"common": 8
 	},
 	{
