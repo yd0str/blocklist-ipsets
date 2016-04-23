@@ -15,18 +15,24 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 52025,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 4121,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 198575,
+		"ips": 198576,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 81360,
+		"ips": 81363,
 		"common": 1
 	},
 	{
@@ -68,20 +74,20 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 378494,
+		"ips": 378500,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670720455,
+		"ips": 670720462,
 		"common": 139
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 148658,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
@@ -92,14 +98,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570535,
+		"ips": 9570391,
 		"common": 9
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45763902,
-		"common": 25
+		"common": 23
 	},
 	{
 		"name": "gofferje_sip",
@@ -114,6 +120,12 @@
 		"common": 1
 	},
 	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 3233,
+		"common": 1
+	},
+	{
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 16210,
@@ -123,13 +135,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 18091,
-		"common": 12
-	},
-	{
-		"name": "hphosts_exp",
-		"category": "malware",
-		"ips": 331,
-		"common": 1
+		"common": 11
 	},
 	{
 		"name": "hphosts_fsa",
@@ -201,7 +207,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 49
+		"common": 47
 	},
 	{
 		"name": "jigsaw_malware",
@@ -225,7 +231,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45557640,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "snort_ipfilter",
