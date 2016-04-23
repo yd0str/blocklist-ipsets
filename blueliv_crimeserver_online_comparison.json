@@ -38,14 +38,8 @@
 	{
 		"name": "atlas_fastflux_30d",
 		"category": "attacks",
-		"ips": 42,
+		"ips": 46,
 		"common": 2
-	},
-	{
-		"name": "atlas_fastflux_7d",
-		"category": "attacks",
-		"ips": 29,
-		"common": 1
 	},
 	{
 		"name": "atlas_phishing",
@@ -360,51 +354,63 @@
 		"common": 1694
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 4728,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 38349,
+		"ips": 38327,
 		"common": 19
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 198101,
+		"ips": 198171,
 		"common": 221
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 90534,
+		"ips": 90541,
 		"common": 65
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 80996,
+		"ips": 81061,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 23435,
+		"ips": 23460,
 		"common": 3
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 39091,
+		"ips": 39036,
 		"common": 22
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 226517,
+		"ips": 226504,
 		"common": 238
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 94512,
+		"ips": 94475,
 		"common": 68
 	},
 	{
@@ -501,24 +507,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 120320,
+		"ips": 123136,
 		"common": 60
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2307584,
-		"common": 605
+		"ips": 2309888,
+		"common": 604
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 506368,
+		"ips": 509696,
 		"common": 163
 	},
 	{
@@ -572,19 +578,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45340,
+		"ips": 45311,
 		"common": 23
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377906,
+		"ips": 377967,
 		"common": 273
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105245,
+		"ips": 105240,
 		"common": 31
 	},
 	{
@@ -596,14 +602,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 144790,
+		"ips": 147608,
 		"common": 163
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2390755,
-		"common": 1164
+		"ips": 2393059,
+		"common": 1163
 	},
 	{
 		"name": "firehol_level4",
@@ -614,7 +620,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 47910,
+		"ips": 47908,
 		"common": 22
 	},
 	{
@@ -1100,25 +1106,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1527,
+		"ips": 1524,
 		"common": 11
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 3061,
+		"ips": 3024,
 		"common": 12
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 9172,
+		"ips": 9155,
 		"common": 21
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5433,
+		"ips": 5422,
 		"common": 17
 	},
 	{
@@ -1166,19 +1172,19 @@
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 233,
+		"ips": 232,
 		"common": 3
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2424,
+		"ips": 2430,
 		"common": 9
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 888,
+		"ips": 892,
 		"common": 3
 	},
 	{
@@ -1190,7 +1196,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 540,
+		"ips": 531,
 		"common": 92
 	},
 	{
@@ -1256,13 +1262,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23781,
+		"ips": 23780,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4303,
+		"ips": 4304,
 		"common": 1
 	},
 	{
@@ -1340,7 +1346,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 12447,
+		"ips": 12449,
 		"common": 1
 	},
 	{
