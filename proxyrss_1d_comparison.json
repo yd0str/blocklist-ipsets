@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14502,
+		"ips": 14474,
 		"common": 103
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105290,
+		"ips": 105283,
 		"common": 2550
 	},
 	{
@@ -302,13 +302,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569761,
+		"ips": 9569736,
 		"common": 501
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 47987,
+		"ips": 47980,
 		"common": 2570
 	},
 	{
@@ -780,21 +780,27 @@
 		"common": 2
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1491,
+		"ips": 1486,
 		"common": 11
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23335,
+		"ips": 23321,
 		"common": 14
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4005,
+		"ips": 4004,
 		"common": 14
 	},
 	{
@@ -855,25 +861,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 39
+		"common": 37
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 746,
-		"common": 64
+		"ips": 744,
+		"common": 63
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 12963,
+		"ips": 12970,
 		"common": 153
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
 		"ips": 3793,
-		"common": 117
+		"common": 116
 	},
 	{
 		"name": "stopforumspam",
@@ -938,25 +944,25 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 59,
-		"common": 48
+		"ips": 61,
+		"common": 46
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 143,
-		"common": 122
+		"ips": 149,
+		"common": 124
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 569,
+		"ips": 570,
 		"common": 166
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 299,
+		"ips": 300,
 		"common": 152
 	}
 ]
