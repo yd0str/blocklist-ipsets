@@ -50,14 +50,14 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30154,
+		"ips": 30149,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22778,
-		"common": 636
+		"ips": 22844,
+		"common": 635
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -68,14 +68,14 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18037,
-		"common": 519
+		"ips": 18080,
+		"common": 517
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1362,
-		"common": 1
+		"ips": 1373,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13589,
+		"ips": 13576,
 		"common": 8
 	},
 	{
@@ -117,6 +117,12 @@
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
 		"ips": 605001544,
+		"common": 1
+	},
+	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 4296,
 		"common": 1
 	},
 	{
@@ -290,19 +296,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 149417,
-		"common": 638
+		"ips": 149483,
+		"common": 637
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2437978,
-		"common": 117
+		"ips": 2438070,
+		"common": 118
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568740,
+		"ips": 9568726,
 		"common": 118
 	},
 	{
@@ -536,8 +542,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37384,
-		"common": 618
+		"ips": 37380,
+		"common": 606
 	},
 	{
 		"name": "nullsecure",
@@ -950,8 +956,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 35485,
-		"common": 65
+		"ips": 35581,
+		"common": 66
 	},
 	{
 		"name": "threatcrowd",
