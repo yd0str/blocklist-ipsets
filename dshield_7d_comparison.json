@@ -266,7 +266,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13981,
+		"ips": 13979,
 		"common": 193
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4291,
+		"ips": 4289,
 		"common": 17
 	},
 	{
@@ -554,7 +554,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2361856,
+		"ips": 2361344,
 		"common": 559872
 	},
 	{
@@ -620,7 +620,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 104927,
+		"ips": 104934,
 		"common": 207
 	},
 	{
@@ -638,19 +638,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2442496,
-		"common": 559105
+		"ips": 2441731,
+		"common": 559872
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569124,
+		"ips": 9569125,
 		"common": 1190
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 47675,
+		"ips": 47682,
 		"common": 175
 	},
 	{
@@ -992,8 +992,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37240,
-		"common": 95
+		"ips": 37153,
+		"common": 92
 	},
 	{
 		"name": "nt_malware_irc",
@@ -1323,7 +1323,7 @@
 		"name": "shunlist",
 		"category": "attacks",
 		"ips": 500,
-		"common": 56
+		"common": 57
 	},
 	{
 		"name": "snort_ipfilter",
@@ -1334,19 +1334,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1544,
+		"ips": 1558,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22918,
+		"ips": 22924,
 		"common": 130
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4100,
+		"ips": 4109,
 		"common": 7
 	},
 	{
@@ -1434,15 +1434,21 @@
 		"common": 9
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 645,
+		"ips": 641,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 13087,
+		"ips": 13088,
 		"common": 3
 	},
 	{
