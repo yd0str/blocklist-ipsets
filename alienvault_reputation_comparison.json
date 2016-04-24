@@ -218,7 +218,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13487,
+		"ips": 13482,
 		"common": 114
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6982,
+		"ips": 6975,
 		"common": 10
 	},
 	{
@@ -536,8 +536,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708157,
-		"common": 323
+		"ips": 670708161,
+		"common": 324
 	},
 	{
 		"name": "firehol_level2",
@@ -554,7 +554,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9566829,
+		"ips": 9566824,
 		"common": 966
 	},
 	{
@@ -944,8 +944,8 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 9834,
-		"common": 6168
+		"ips": 9820,
+		"common": 6173
 	},
 	{
 		"name": "openbl_1d",
@@ -956,32 +956,32 @@
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 2000,
-		"common": 1998
+		"ips": 2003,
+		"common": 1999
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 21828,
-		"common": 6184
+		"ips": 21810,
+		"common": 6189
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 3695,
-		"common": 3688
+		"ips": 3694,
+		"common": 3685
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
-		"ips": 628,
-		"common": 628
+		"ips": 626,
+		"common": 624
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 5226,
-		"common": 5217
+		"ips": 5227,
+		"common": 5216
 	},
 	{
 		"name": "openbl_all",
@@ -1124,7 +1124,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 534,
+		"ips": 533,
 		"common": 1
 	},
 	{
@@ -1371,6 +1371,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 162,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 141,
 		"common": 1
 	}
 ]
