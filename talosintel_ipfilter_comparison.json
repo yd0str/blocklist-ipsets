@@ -212,7 +212,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13672,
+		"ips": 13641,
 		"common": 64
 	},
 	{
@@ -266,26 +266,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 59,
-		"common": 8
+		"ips": 62,
+		"common": 22
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1282,
-		"common": 180
+		"ips": 1277,
+		"common": 181
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17376,
-		"common": 465
+		"ips": 17387,
+		"common": 466
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4774,
-		"common": 335
+		"ips": 4776,
+		"common": 336
 	},
 	{
 		"name": "botvrij_dst",
@@ -480,27 +480,21 @@
 		"common": 51
 	},
 	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 2
-	},
-	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 125952,
+		"ips": 123648,
 		"common": 12
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2355456,
+		"ips": 2356480,
 		"common": 321
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 550400,
+		"ips": 549632,
 		"common": 97
 	},
 	{
@@ -554,19 +548,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105228,
+		"ips": 105200,
 		"common": 1585
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708673,
-		"common": 657
+		"ips": 670708427,
+		"common": 655
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 150714,
+		"ips": 148396,
 		"common": 231
 	},
 	{
@@ -578,13 +572,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568809,
-		"common": 703
+		"ips": 9568789,
+		"common": 704
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 47900,
+		"ips": 47872,
 		"common": 830
 	},
 	{
@@ -718,6 +712,12 @@
 		"category": "unroutable",
 		"ips": 666661539,
 		"common": 1182
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 615,
+		"common": 3
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -1244,13 +1244,13 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 2195,
+		"ips": 2205,
 		"common": 8
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
 		"category": "malware",
-		"ips": 2103,
+		"ips": 2113,
 		"common": 1
 	},
 	{
@@ -1329,25 +1329,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 3
+		"common": 1
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1511,
-		"common": 28
+		"ips": 1510,
+		"common": 29
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22958,
+		"ips": 22960,
 		"common": 592
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4071,
-		"common": 64
+		"ips": 4070,
+		"common": 65
 	},
 	{
 		"name": "sorbs_anonymizers",
