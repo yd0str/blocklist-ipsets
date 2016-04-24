@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Sun Apr 24 15:53:59 UTC 2016.
+The following list was automatically generated on Sun Apr 24 15:57:03 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -330,7 +330,7 @@ bambenek_p2pgoz|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/
 [chaosreigns_iprep50](http://iplists.firehol.org/?ipset=chaosreigns_iprep50)|[ChaosReigns.com](http://www.chaosreigns.com/iprep) The iprep50 list includes all IPs that sent both ham and spam emails. This is an automated, free, public email IP reputation system. The primary goal is a whitelist. Other data is provided as a consequence.|ipv4 hash:ip|4909 unique IPs|updated every 1 day  from [this link](http://www.chaosreigns.com/iprep/iprep.txt)
 [ciarmy](http://iplists.firehol.org/?ipset=ciarmy)|[CIArmy.com](http://ciarmy.com/) IPs with poor Rogue Packet score that have not yet been identified as malicious by the community|ipv4 hash:ip|656 unique IPs|updated every 3 hours  from [this link](http://cinsscore.com/list/ci-badguys.txt)
 [cidr_report_bogons](http://iplists.firehol.org/?ipset=cidr_report_bogons)|Unallocated (Free) Address Space, generated on a daily basis using the IANA registry files, the Regional Internet Registry stats files and the Regional Internet Registry whois data.|ipv4 hash:net|3732 subnets, 605001544 unique IPs|updated every 1 day  from [this link](http://www.cidr-report.org/bogons/freespace-prefix.txt)
-[cleanmx_phishing](http://iplists.firehol.org/?ipset=cleanmx_phishing)|[Clean-MX.de](http://support.clean-mx.de/) IPs sending phishing messages|ipv4 hash:ip|4293 unique IPs|updated every 30 mins  from [this link](http://support.clean-mx.de/clean-mx/xmlphishing?response=alive&format=csv&domain=)
+[cleanmx_phishing](http://iplists.firehol.org/?ipset=cleanmx_phishing)|[Clean-MX.de](http://support.clean-mx.de/) IPs sending phishing messages|ipv4 hash:ip|4292 unique IPs|updated every 30 mins  from [this link](http://support.clean-mx.de/clean-mx/xmlphishing?response=alive&format=csv&domain=)
 [cleanmx_viruses](http://iplists.firehol.org/?ipset=cleanmx_viruses)|[Clean-MX.de](http://support.clean-mx.de/clean-mx/viruses.php) IPs with viruses|ipv4 hash:ip|6187 unique IPs|updated every 30 mins  from [this link](http://support.clean-mx.de/clean-mx/xmlviruses.php?response=alive&fields=ip)
 [cleantalk](http://iplists.firehol.org/?ipset=cleantalk)|[CleanTalk](https://cleantalk.org/) Today's HTTP Spammers (includes: cleantalk_new cleantalk_updated)|ipv4 hash:ip|3929 unique IPs|
 [cleantalk_1d](http://iplists.firehol.org/?ipset=cleantalk_1d)|[CleanTalk](https://cleantalk.org/) Today's HTTP Spammers (includes: cleantalk_new_1d cleantalk_updated_1d)|ipv4 hash:ip|35755 unique IPs|
