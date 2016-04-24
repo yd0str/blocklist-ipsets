@@ -32,7 +32,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13713,
+		"ips": 13705,
 		"common": 1
 	},
 	{
@@ -68,37 +68,37 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 6087,
+		"ips": 6106,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 36527,
+		"ips": 36490,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 199050,
+		"ips": 199070,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 89707,
+		"ips": 89652,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 82224,
+		"ips": 82239,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 38160,
+		"ips": 38165,
 		"common": 1
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 93779,
+		"ips": 93726,
 		"common": 1
 	},
 	{
@@ -170,20 +170,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 43436,
+		"ips": 43396,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 378527,
+		"ips": 378543,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708155,
-		"common": 7
+		"ips": 670708158,
+		"common": 8
 	},
 	{
 		"name": "firehol_level2",
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568699,
+		"ips": 9568707,
 		"common": 5
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 2191,
+		"ips": 2193,
 		"common": 4
 	},
 	{
@@ -489,6 +489,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 162,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 137,
 		"common": 1
 	}
 ]
