@@ -218,7 +218,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14221,
+		"ips": 14206,
 		"common": 257
 	},
 	{
@@ -446,8 +446,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6952,
-		"common": 41
+		"ips": 6981,
+		"common": 42
 	},
 	{
 		"name": "dragon_http",
@@ -608,13 +608,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 104758,
-		"common": 11455
+		"ips": 104852,
+		"common": 11456
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708674,
+		"ips": 670708673,
 		"common": 75411
 	},
 	{
@@ -632,13 +632,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569427,
+		"ips": 9569422,
 		"common": 29660
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 47544,
+		"ips": 47549,
 		"common": 11418
 	},
 	{
@@ -992,8 +992,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 4099,
-		"common": 165
+		"ips": 4080,
+		"common": 167
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -1422,22 +1422,28 @@
 		"common": 3692
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1545,
+		"ips": 1552,
 		"common": 47
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22794,
+		"ips": 22799,
 		"common": 679
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4109,
-		"common": 142
+		"ips": 4108,
+		"common": 141
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1518,16 +1524,10 @@
 		"common": 6
 	},
 	{
-		"name": "sslproxies",
-		"category": "anonymizers",
-		"ips": 100,
-		"common": 4
-	},
-	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 667,
-		"common": 329
+		"ips": 664,
+		"common": 327
 	},
 	{
 		"name": "sslproxies_30d",
@@ -1538,8 +1538,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3826,
-		"common": 2559
+		"ips": 3821,
+		"common": 2554
 	},
 	{
 		"name": "stopforumspam",
@@ -1688,7 +1688,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 139,
+		"ips": 138,
 		"common": 3
 	}
 ]
