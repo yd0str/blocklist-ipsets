@@ -134,8 +134,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22889,
-		"common": 457
+		"ips": 22863,
+		"common": 456
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -164,13 +164,13 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18107,
-		"common": 161
+		"ips": 18077,
+		"common": 160
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1382,
+		"ips": 1393,
 		"common": 54
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13582,
+		"ips": 13583,
 		"common": 135
 	},
 	{
@@ -240,22 +240,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 58,
+		"common": 3
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1280,
-		"common": 55
+		"ips": 1283,
+		"common": 56
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 17402,
-		"common": 458
+		"common": 459
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4791,
-		"common": 162
+		"ips": 4799,
+		"common": 164
 	},
 	{
 		"name": "botvrij_dst",
@@ -524,7 +530,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 42796,
+		"ips": 42800,
 		"common": 844
 	},
 	{
@@ -548,20 +554,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 150042,
-		"common": 543
+		"ips": 150013,
+		"common": 542
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2437558,
-		"common": 1570
+		"ips": 2438582,
+		"common": 1572
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9568752,
-		"common": 1219
+		"common": 1220
 	},
 	{
 		"name": "firehol_proxies",
@@ -968,8 +974,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37420,
-		"common": 129
+		"ips": 37396,
+		"common": 132
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1256,7 +1262,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 534,
+		"ips": 533,
 		"common": 2
 	},
 	{
@@ -1298,26 +1304,26 @@
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 143,
+		"ips": 145,
 		"common": 30
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 414,
-		"common": 109
+		"ips": 381,
+		"common": 96
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5596,
-		"common": 1127
+		"ips": 5592,
+		"common": 1128
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1513,
-		"common": 369
+		"ips": 1491,
+		"common": 359
 	},
 	{
 		"name": "satellite",
