@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Sun Apr 24 12:03:05 UTC 2016.
+The following list was automatically generated on Sun Apr 24 12:04:43 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -1024,9 +1024,9 @@ php_bad|[projecthoneypot.org](http://www.projecthoneypot.org/?rf=192670) bad web
 [proxyrss_30d](http://iplists.firehol.org/?ipset=proxyrss_30d)|[proxyrss.com](http://www.proxyrss.com) open proxies syndicated from multiple sources.|ipv4 hash:ip|8717 unique IPs|updated every 4 hours  from [this link](http://www.proxyrss.com/proxylists/all.gz)
 [proxyrss_7d](http://iplists.firehol.org/?ipset=proxyrss_7d)|[proxyrss.com](http://www.proxyrss.com) open proxies syndicated from multiple sources.|ipv4 hash:ip|5041 unique IPs|updated every 4 hours  from [this link](http://www.proxyrss.com/proxylists/all.gz)
 [proxyspy](http://iplists.firehol.org/?ipset=proxyspy)|[ProxySpy](http://spys.ru/en/) open proxies (updated hourly)|ipv4 hash:ip|298 unique IPs|updated every 1 hour  from [this link](http://txt.proxyspy.net/proxy.txt)
-[proxyspy_1d](http://iplists.firehol.org/?ipset=proxyspy_1d)|[ProxySpy](http://spys.ru/en/) open proxies (updated hourly)|ipv4 hash:ip|1053 unique IPs|updated every 1 hour  from [this link](http://txt.proxyspy.net/proxy.txt)
-[proxyspy_30d](http://iplists.firehol.org/?ipset=proxyspy_30d)|[ProxySpy](http://spys.ru/en/) open proxies (updated hourly)|ipv4 hash:ip|6226 unique IPs|updated every 1 hour  from [this link](http://txt.proxyspy.net/proxy.txt)
-[proxyspy_7d](http://iplists.firehol.org/?ipset=proxyspy_7d)|[ProxySpy](http://spys.ru/en/) open proxies (updated hourly)|ipv4 hash:ip|2778 unique IPs|updated every 1 hour  from [this link](http://txt.proxyspy.net/proxy.txt)
+[proxyspy_1d](http://iplists.firehol.org/?ipset=proxyspy_1d)|[ProxySpy](http://spys.ru/en/) open proxies (updated hourly)|ipv4 hash:ip|1085 unique IPs|updated every 1 hour  from [this link](http://txt.proxyspy.net/proxy.txt)
+[proxyspy_30d](http://iplists.firehol.org/?ipset=proxyspy_30d)|[ProxySpy](http://spys.ru/en/) open proxies (updated hourly)|ipv4 hash:ip|6221 unique IPs|updated every 1 hour  from [this link](http://txt.proxyspy.net/proxy.txt)
+[proxyspy_7d](http://iplists.firehol.org/?ipset=proxyspy_7d)|[ProxySpy](http://spys.ru/en/) open proxies (updated hourly)|ipv4 hash:ip|2761 unique IPs|updated every 1 hour  from [this link](http://txt.proxyspy.net/proxy.txt)
 [proxz](http://iplists.firehol.org/?ipset=proxz)|[proxz.com](http://www.proxz.com) open proxies (this list is composed using an RSS feed)|ipv4 hash:ip|25 unique IPs|updated every 1 hour  from [this link](http://www.proxz.com/proxylists.xml)
 [proxz_1d](http://iplists.firehol.org/?ipset=proxz_1d)|[proxz.com](http://www.proxz.com) open proxies (this list is composed using an RSS feed)|ipv4 hash:ip|206 unique IPs|updated every 1 hour  from [this link](http://www.proxz.com/proxylists.xml)
 [proxz_30d](http://iplists.firehol.org/?ipset=proxz_30d)|[proxz.com](http://www.proxz.com) open proxies (this list is composed using an RSS feed)|ipv4 hash:ip|2434 unique IPs|updated every 1 hour  from [this link](http://www.proxz.com/proxylists.xml)
@@ -1081,7 +1081,7 @@ sorbs_block|[Sorbs.net](https://www.sorbs.net/) List of hosts demanding that the
 [sslproxies_7d](http://iplists.firehol.org/?ipset=sslproxies_7d)|[SSLProxies.org](http://www.sslproxies.org/) open SSL proxies|ipv4 hash:ip|3739 unique IPs|updated every 10 mins  from [this link](http://www.sslproxies.org/)
 [stopforumspam](http://iplists.firehol.org/?ipset=stopforumspam)|[StopForumSpam.com](http://www.stopforumspam.com) Banned IPs used by forum spammers|ipv4 hash:ip|191238 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/bannedips.zip)
 [stopforumspam_180d](http://iplists.firehol.org/?ipset=stopforumspam_180d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers (last 180 days)|ipv4 hash:ip|343153 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/listed_ip_180.zip)
-[stopforumspam_1d](http://iplists.firehol.org/?ipset=stopforumspam_1d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers in the last 24 hours|ipv4 hash:ip|4823 unique IPs|updated every 1 hour  from [this link](http://www.stopforumspam.com/downloads/listed_ip_1.zip)
+[stopforumspam_1d](http://iplists.firehol.org/?ipset=stopforumspam_1d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers in the last 24 hours|ipv4 hash:ip|4808 unique IPs|updated every 1 hour  from [this link](http://www.stopforumspam.com/downloads/listed_ip_1.zip)
 [stopforumspam_30d](http://iplists.firehol.org/?ipset=stopforumspam_30d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers (last 30 days)|ipv4 hash:ip|68151 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/listed_ip_30.zip)
 [stopforumspam_365d](http://iplists.firehol.org/?ipset=stopforumspam_365d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers (last 365 days)|ipv4 hash:ip|707110 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/listed_ip_365.zip)
 [stopforumspam_7d](http://iplists.firehol.org/?ipset=stopforumspam_7d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers (last 7 days)|ipv4 hash:ip|21545 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/listed_ip_7.zip)
