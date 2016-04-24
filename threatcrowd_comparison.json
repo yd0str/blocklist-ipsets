@@ -98,7 +98,7 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 3512,
+		"ips": 3525,
 		"common": 24
 	},
 	{
@@ -122,67 +122,67 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 1703,
+		"ips": 1702,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 670,
+		"ips": 669,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5808,
+		"ips": 5805,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7515,
+		"ips": 7509,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30114,
+		"ips": 30115,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12939,
+		"ips": 12937,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 23377,
+		"ips": 23318,
 		"common": 16
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10100,
+		"ips": 10097,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2537,
+		"ips": 2510,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1448,
+		"ips": 1441,
 		"common": 14
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 143,
+		"ips": 144,
 		"common": 10
 	},
 	{
@@ -192,34 +192,28 @@
 		"common": 23
 	},
 	{
-		"name": "blueliv_crimeserver_last",
-		"category": "attacks",
-		"ips": 137,
-		"common": 1
-	},
-	{
 		"name": "blueliv_crimeserver_last_1d",
 		"category": "attacks",
-		"ips": 325,
+		"ips": 347,
 		"common": 1
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
-		"ips": 596,
+		"ips": 559,
 		"common": 4
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
-		"ips": 37058,
+		"ips": 37061,
 		"common": 114
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
-		"ips": 18995,
-		"common": 71
+		"ips": 18223,
+		"common": 70
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -368,7 +362,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6911,
+		"ips": 6907,
 		"common": 3
 	},
 	{
@@ -500,19 +494,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105226,
+		"ips": 105318,
 		"common": 6
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708415,
-		"common": 131
+		"ips": 670708418,
+		"common": 133
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 151574,
+		"ips": 151514,
 		"common": 56
 	},
 	{
@@ -1028,7 +1022,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 532,
+		"ips": 533,
 		"common": 40
 	},
 	{
@@ -1300,5 +1294,11 @@
 		"category": "malware",
 		"ips": 162,
 		"common": 4
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 140,
+		"common": 2
 	}
 ]
