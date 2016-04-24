@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14039,
+		"ips": 14031,
 		"common": 3
 	},
 	{
@@ -176,13 +176,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708421,
-		"common": 15
+		"ips": 670708418,
+		"common": 16
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 152865,
+		"ips": 152892,
 		"common": 2
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569170,
+		"ips": 9569160,
 		"common": 46
 	},
 	{
@@ -490,5 +490,11 @@
 		"category": "malware",
 		"ips": 162,
 		"common": 2
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 140,
+		"common": 1
 	}
 ]
