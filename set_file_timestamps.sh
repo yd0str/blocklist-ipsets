@@ -97,7 +97,7 @@
 [ -f 'chaosreigns_iprep50.ipset' ] && /bin/touch --date=@1461491996 'chaosreigns_iprep50.ipset'
 [ -f 'ciarmy.ipset' ] && /bin/touch --date=@1461503730 'ciarmy.ipset'
 [ -f 'cidr_report_bogons.netset' ] && /bin/touch --date=@1461384677 'cidr_report_bogons.netset'
-[ -f 'cleanmx_phishing.ipset' ] && /bin/touch --date=@1461511472 'cleanmx_phishing.ipset'
+[ -f 'cleanmx_phishing.ipset' ] && /bin/touch --date=@1461513395 'cleanmx_phishing.ipset'
 [ -f 'cleanmx_viruses.ipset' ] && /bin/touch --date=@1461511955 'cleanmx_viruses.ipset'
 [ -f 'cleantalk.ipset' ] && /bin/touch --date=@1461512902 'cleantalk.ipset'
 [ -f 'cleantalk_1d.ipset' ] && /bin/touch --date=@1461512902 'cleantalk_1d.ipset'
