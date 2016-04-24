@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 9989,
-		"common": 202
+		"common": 201
 	},
 	{
 		"name": "anonymous",
@@ -51,7 +51,7 @@
 		"name": "atlas_scans_30d",
 		"category": "attacks",
 		"ips": 113,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "atlas_scans_7d",
@@ -75,7 +75,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 50560,
-		"common": 228
+		"common": 226
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -87,19 +87,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8625,
-		"common": 55
+		"common": 54
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3516,
-		"common": 39
-	},
-	{
-		"name": "bi_bruteforce_2_30d",
-		"category": "attacks",
-		"ips": 3,
-		"common": 1
+		"common": 38
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -111,7 +105,7 @@
 		"name": "bi_http_2_30d",
 		"category": "attacks",
 		"ips": 167,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -123,7 +117,7 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 5793,
-		"common": 48
+		"common": 47
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
@@ -134,25 +128,25 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 673,
+		"ips": 674,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5906,
+		"ips": 5881,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7593,
+		"ips": 7595,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30155,
+		"ips": 30154,
 		"common": 1
 	},
 	{
@@ -345,7 +339,7 @@
 		"name": "dragon_http",
 		"category": "attacks",
 		"ips": 47104,
-		"common": 37
+		"common": 35
 	},
 	{
 		"name": "dragon_sshpauth",
@@ -375,19 +369,19 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 123648,
-		"common": 88
+		"common": 86
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 2356480,
-		"common": 402
+		"common": 400
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 549632,
-		"common": 149
+		"common": 147
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -428,7 +422,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 43036,
+		"ips": 42998,
 		"common": 1
 	},
 	{
@@ -440,7 +434,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105200,
+		"ips": 105199,
 		"common": 3
 	},
 	{
@@ -453,12 +447,12 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 148396,
-		"common": 106
+		"common": 104
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2437976,
+		"ips": 2437978,
 		"common": 852
 	},
 	{
@@ -627,13 +621,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 60
+		"common": 61
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139039391,
-		"common": 121
+		"common": 122
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -687,13 +681,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 67
+		"common": 66
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 119
+		"common": 118
 	},
 	{
 		"name": "lashback_ubl",
@@ -789,7 +783,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 612,
-		"common": 38
+		"common": 37
 	},
 	{
 		"name": "php_commenters_30d",
@@ -879,7 +873,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136187743,
-		"common": 58
+		"common": 59
 	},
 	{
 		"name": "sp_atma",
@@ -914,7 +908,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4808,
+		"ips": 4777,
 		"common": 1
 	},
 	{
@@ -962,25 +956,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 970,
+		"ips": 969,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1049,
+		"ips": 1053,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 3090,
+		"ips": 3088,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1537,
+		"ips": 1540,
 		"common": 1
 	},
 	{
@@ -993,7 +987,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 9984,
-		"common": 168
+		"common": 167
 	},
 	{
 		"name": "urlvir",
