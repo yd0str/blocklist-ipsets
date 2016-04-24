@@ -86,13 +86,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30171,
+		"ips": 30156,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 13041,
+		"ips": 13034,
 		"common": 1
 	},
 	{
@@ -212,13 +212,19 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1030,
-		"common": 475
+		"ips": 1026,
+		"common": 470
 	},
 	{
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
 		"ips": 605001544,
+		"common": 1
+	},
+	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 4290,
 		"common": 1
 	},
 	{
@@ -369,13 +375,13 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 5
+		"common": 66
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 125952,
-		"common": 233
+		"ips": 123648,
+		"common": 244
 	},
 	{
 		"name": "dshield_30d",
@@ -386,8 +392,8 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 551936,
-		"common": 549
+		"ips": 552960,
+		"common": 551
 	},
 	{
 		"name": "dshield_top_1000",
@@ -446,25 +452,25 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 105048,
+		"ips": 105029,
 		"common": 22
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708414,
-		"common": 96
+		"ips": 670708157,
+		"common": 121
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 151847,
-		"common": 734
+		"ips": 149541,
+		"common": 744
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2437615,
+		"ips": 2437614,
 		"common": 2441
 	},
 	{
@@ -476,7 +482,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 47807,
+		"ips": 47788,
 		"common": 19
 	},
 	{
@@ -950,7 +956,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22933,
+		"ips": 22932,
 		"common": 2
 	},
 	{
@@ -1028,7 +1034,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 13218,
+		"ips": 13200,
 		"common": 1
 	},
 	{
