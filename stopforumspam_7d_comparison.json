@@ -110,37 +110,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 23393,
-		"common": 1595
+		"ips": 23429,
+		"common": 1596
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10010,
+		"ips": 10011,
 		"common": 29
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2448,
-		"common": 1448
+		"ips": 2455,
+		"common": 1449
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1148,
+		"ips": 1151,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18046,
+		"ips": 18065,
 		"common": 164
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1411,
+		"ips": 1419,
 		"common": 3
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13854,
+		"ips": 13848,
 		"common": 873
 	},
 	{
@@ -219,6 +219,12 @@
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
 		"ips": 605001544,
+		"common": 2
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 6162,
 		"common": 2
 	},
 	{
@@ -446,14 +452,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708421,
+		"ips": 670708677,
 		"common": 420
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 154340,
-		"common": 1659
+		"ips": 154376,
+		"common": 1660
 	},
 	{
 		"name": "firehol_level3",
@@ -464,8 +470,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9563106,
-		"common": 5120
+		"ips": 9568878,
+		"common": 5122
 	},
 	{
 		"name": "firehol_proxies",
@@ -1076,7 +1082,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 533,
+		"ips": 534,
 		"common": 1
 	},
 	{

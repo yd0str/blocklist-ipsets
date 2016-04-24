@@ -62,8 +62,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 23393,
-		"common": 1411
+		"ips": 23429,
+		"common": 1419
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13854,
+		"ips": 13848,
 		"common": 84
 	},
 	{
@@ -129,6 +129,12 @@
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
 		"ips": 605001544,
+		"common": 1
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 6162,
 		"common": 1
 	},
 	{
@@ -302,14 +308,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708421,
-		"common": 20
+		"ips": 670708677,
+		"common": 12
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 154340,
-		"common": 1411
+		"ips": 154376,
+		"common": 1419
 	},
 	{
 		"name": "firehol_level3",
@@ -320,8 +326,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9563106,
-		"common": 208
+		"ips": 9568878,
+		"common": 209
 	},
 	{
 		"name": "firehol_proxies",
@@ -465,7 +471,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139039391,
-		"common": 81
+		"common": 82
 	},
 	{
 		"name": "iblocklist_org_joost",
@@ -519,7 +525,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1164970,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "maxmind_proxy_fraud",

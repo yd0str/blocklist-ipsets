@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 9950,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "atlas_attacks_30d",
@@ -39,7 +39,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 50560,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -92,13 +92,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 23393,
-		"common": 10010
+		"ips": 23429,
+		"common": 10011
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2448,
+		"ips": 2455,
 		"common": 21
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18046,
+		"ips": 18065,
 		"common": 9011
 	},
 	{
@@ -122,8 +122,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13854,
-		"common": 175
+		"ips": 13848,
+		"common": 174
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -171,13 +171,19 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 637,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4268,
 		"common": 1
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 6162,
+		"common": 2
 	},
 	{
 		"name": "cleantalk",
@@ -315,7 +321,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 2354688,
-		"common": 53
+		"common": 54
 	},
 	{
 		"name": "dshield_7d",
@@ -362,26 +368,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708421,
+		"ips": 670708677,
 		"common": 10
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 154340,
-		"common": 10010
+		"ips": 154376,
+		"common": 10011
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2435766,
-		"common": 71
+		"common": 72
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9563106,
-		"common": 210
+		"ips": 9568878,
+		"common": 209
 	},
 	{
 		"name": "firehol_proxies",
@@ -903,6 +909,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 9984,
-		"common": 8
+		"common": 9
 	}
 ]
