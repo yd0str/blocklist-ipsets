@@ -81,7 +81,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1394,
-		"common": 490
+		"common": 487
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -218,7 +218,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14240,
+		"ips": 14238,
 		"common": 108
 	},
 	{
@@ -260,25 +260,31 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6986,
+		"ips": 6915,
 		"common": 10
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 59,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1270,
-		"common": 10
+		"ips": 1286,
+		"common": 11
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17475,
+		"ips": 17488,
 		"common": 27
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4850,
+		"ips": 4856,
 		"common": 16
 	},
 	{
@@ -392,7 +398,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6911,
+		"ips": 6893,
 		"common": 10
 	},
 	{
@@ -518,7 +524,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 42143,
+		"ips": 42147,
 		"common": 36
 	},
 	{
@@ -536,8 +542,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708165,
-		"common": 538
+		"ips": 670708167,
+		"common": 539
 	},
 	{
 		"name": "firehol_level2",
@@ -554,7 +560,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569443,
+		"ips": 9569451,
 		"common": 966
 	},
 	{
@@ -1316,25 +1322,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 977,
+		"ips": 975,
 		"common": 10
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1049,
+		"ips": 1051,
 		"common": 10
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 3093,
+		"ips": 3095,
 		"common": 14
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1531,
+		"ips": 1533,
 		"common": 11
 	},
 	{
@@ -1377,6 +1383,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 162,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 141,
 		"common": 1
 	}
 ]

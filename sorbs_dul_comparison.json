@@ -99,7 +99,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1394,
-		"common": 83
+		"common": 84
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -248,7 +248,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14240,
+		"ips": 14238,
 		"common": 430
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6986,
-		"common": 815
+		"ips": 6915,
+		"common": 804
 	},
 	{
 		"name": "bogons",
@@ -306,22 +306,28 @@
 		"common": 512
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 59,
+		"common": 4
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1270,
-		"common": 88
+		"ips": 1286,
+		"common": 91
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17475,
-		"common": 1896
+		"ips": 17488,
+		"common": 1900
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4850,
-		"common": 406
+		"ips": 4856,
+		"common": 408
 	},
 	{
 		"name": "botvrij_dst",
@@ -476,8 +482,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6911,
-		"common": 804
+		"ips": 6893,
+		"common": 786
 	},
 	{
 		"name": "dragon_http",
@@ -620,8 +626,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 42143,
-		"common": 2832
+		"ips": 42147,
+		"common": 2834
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -638,7 +644,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670708165,
+		"ips": 670708167,
 		"common": 111788
 	},
 	{
@@ -656,8 +662,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569443,
-		"common": 23330
+		"ips": 9569451,
+		"common": 23334
 	},
 	{
 		"name": "firehol_proxies",
@@ -1700,26 +1706,26 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 977,
+		"ips": 975,
 		"common": 61
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1049,
+		"ips": 1051,
 		"common": 88
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 3093,
-		"common": 739
+		"ips": 3095,
+		"common": 740
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1531,
-		"common": 273
+		"ips": 1533,
+		"common": 274
 	},
 	{
 		"name": "trustedsec_atif",
@@ -1754,7 +1760,7 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 143,
+		"ips": 141,
 		"common": 3
 	},
 	{
@@ -1784,7 +1790,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 139,
+		"ips": 141,
 		"common": 1
 	}
 ]
