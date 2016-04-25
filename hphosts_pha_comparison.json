@@ -56,8 +56,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14218,
-		"common": 22
+		"ips": 14260,
+		"common": 23
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -110,19 +110,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1292,
+		"ips": 1296,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17497,
+		"ips": 17499,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4859,
+		"ips": 4857,
 		"common": 1
 	},
 	{
@@ -146,8 +146,8 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 6249,
-		"common": 69
+		"ips": 6302,
+		"common": 66
 	},
 	{
 		"name": "cleantalk_30d",
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 42229,
+		"ips": 42257,
 		"common": 1
 	},
 	{
@@ -272,13 +272,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 670709949,
-		"common": 39
+		"ips": 670709953,
+		"common": 40
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 155113,
+		"ips": 155064,
 		"common": 8
 	},
 	{
@@ -290,8 +290,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569502,
-		"common": 110
+		"ips": 9569597,
+		"common": 109
 	},
 	{
 		"name": "firehol_webserver",
@@ -572,19 +572,19 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 533,
+		"ips": 525,
 		"common": 7
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 2414,
+		"ips": 2416,
 		"common": 1
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
 		"category": "malware",
-		"ips": 2322,
+		"ips": 2324,
 		"common": 1
 	},
 	{
@@ -712,5 +712,11 @@
 		"category": "malware",
 		"ips": 162,
 		"common": 3
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 141,
+		"common": 1
 	}
 ]
